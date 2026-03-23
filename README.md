@@ -68,3 +68,12 @@ Las amenazas en ciberseguridad pueden clasificarse en cuatro categorías:
 La seguridad no es una capa que se agrega al final de un proyecto; es una mentalidad que debe estar presente desde el primer día. Cuanto antes se incorporen estos conceptos a la formación de un ingeniero, menor será la probabilidad de que en su vida profesional cometa errores que comprometan la seguridad de terceros.
 
 ---
+
+### Diego Flores — Introducción, Rompehielos y ¿Qué es la Ciberseguridad?
+
+| | Aspectos Positivos | Aspectos a Mejorar |
+|-|-------------------|-------------------|
+| **Interno** | **FORTALEZAS:** La dinámica del rompehielos "¿Quién ha caído?" generó participación inmediata y creó una atmósfera de apertura desde el primer minuto. La explicación de la Tríada CIA fue clara y accesible para audiencias no técnicas. Buena proyección de voz y seguridad al presentar. | **DEBILIDADES:** El tiempo disponible para el subtema 1 fue reducido (5 minutos) tras la introducción, lo que limitó la profundidad de la explicación sobre tipos de amenazas. La transición entre el rompehielos y el contenido técnico podría haberse planificado con mayor fluidez. |
+| **Externo** | **OPORTUNIDADES:** La apertura participativa captó la atención del auditorio para toda la sesión, estableciendo el tono positivo que favoreció la receptividad hacia los expositores siguientes. | **AMENAZAS:** El rompehielos dependía de la disposición del público a participar; en grupos más reservados podría no haber funcionado igual. La amplitud del concepto de ciberseguridad en 5 minutos puede generar expectativas que no todos los subtemas alcancen a satisfacer. |
+
+---
