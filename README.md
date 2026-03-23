@@ -34,7 +34,7 @@ Capacitar a los estudiantes de primer año de Ingeniería en Sistemas de la USAC
 
 # 3. DESCRIPCIÓN GENERAL DEL TEMA Y SUBTEMAS
 
-## 3.1 ¿Qué es la Ciberseguridad? — Expositor 1
+## 3.1 ¿Qué es la Ciberseguridad?
 
 ### Definición
 
