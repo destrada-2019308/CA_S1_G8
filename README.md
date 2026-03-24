@@ -376,3 +376,39 @@ La seguridad en el software no es una característica que se añade al final: es
 | **Externo** | **OPORTUNIDADES:** Al ser primer año, este es el mejor momento para sembrar una mentalidad de seguridad que acompañe al estudiante durante toda su carrera. Este subtema puede ser el más recordado por su relevancia profesional directa. | **AMENAZAS:** Los estudiantes de primer año aún no tienen experiencia en desarrollo, lo que puede dificultar la identificación con escenarios como "validar entradas del usuario" o "usar consultas preparadas". |
 
 ---
+
+## 4 FODA Grupal
+
+### FORTALEZAS del Grupo
+
+- **Estructura temática coherente:** Los seis bloques forman una narrativa progresiva y bien articulada: fundamentos → amenazas → protección personal → hábitos → responsabilidad profesional → validación. Cada bloque prepara el terreno para el siguiente.
+- **Diversidad de perfiles y estilos:** El grupo combinó expositores con mayor orientación técnica y otros con mayor facilidad comunicativa, generando variedad de ritmo y estilo a lo largo de la sesión.
+- **Aplicabilidad inmediata del contenido:** La mayoría de los subtemas entregaron herramientas concretas que el público podía implementar ese mismo día.
+- **Actividad de cierre participativa:** La dinámica "¿Seguro o Inseguro?" fue un punto alto que reforzó el aprendizaje y generó energía positiva al final de la sesión.
+- **Compromiso y puntualidad:** Todos los integrantes cumplieron con sus responsabilidades en los tiempos acordados.
+- **Relevancia del tema para la audiencia:** La elección de ciberseguridad conecta tanto con la vida personal del público como con su futuro profesional.
+
+### OPORTUNIDADES del Grupo
+
+- **Tema en expansión constante:** La ciberseguridad es uno de los campos de mayor crecimiento global, lo que facilita encontrar material actualizado y mantener el contenido relevante.
+- **Alta demanda laboral:** El mercado de trabajo demanda urgentemente profesionales con conocimientos en seguridad informática.
+- **Retroalimentación del público:** Las preguntas y reacciones del auditorio constituyeron retroalimentación valiosa para mejorar futuras presentaciones.
+- **Base para proyectos más profundos:** El material desarrollado puede ser punto de partida para proyectos de investigación, talleres o participación en competencias CTF (Capture the Flag).
+- **Plataformas gratuitas de práctica:** Recursos como TryHackMe o Have I Been Pwned permiten seguir profundizando sin costo adicional.
+
+### DEBILIDADES del Grupo
+
+- **Desbalance en la profundidad técnica entre bloques:** Algunos subtemas alcanzaron mayor rigor técnico que otros, generando una experiencia inconsistente para el auditorio.
+- **Gestión del tiempo:** El tiempo de 10 minutos por expositor fue muy ajustado; varios bloques tuvieron que recortar contenido valioso. La falta de ensayos con cronómetro evidenció este problema durante la presentación.
+- **Escasez de elementos visuales dinámicos:** Algunos bloques dependieron de texto en diapositivas; la inclusión de más diagramas, infografías o capturas de pantalla habría mejorado la retención.
+- **Transiciones entre expositores:** Las transiciones no siempre fueron fluidas, generando pausas que interrumpieron el ritmo de la sesión.
+- **Falta de estandarización visual:** Las diapositivas de diferentes integrantes no siguieron un formato completamente uniforme, afectando la cohesión visual.
+
+### AMENAZAS del Grupo
+
+- **Evolución rápida del campo:** La información sobre amenazas y herramientas puede quedar desactualizada en meses.
+- **Audiencia heterogénea:** El nivel de conocimiento previo del público varió considerablemente, dificultando calibrar el nivel de profundidad técnica adecuado.
+- **Limitaciones de tiempo estructurales:** El formato de 60 minutos total impuso restricciones que impidieron explorar algunos temas con la profundidad que merecen.
+- **Dependencia de la participación del público:** Dinámicas como el rompehielos y la actividad de cierre asumen un público dispuesto a participar activamente.
+
+---
