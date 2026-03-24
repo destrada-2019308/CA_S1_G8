@@ -1,4 +1,52 @@
+# INFORME GRUPAL: CIBERSEGURIDAD Y PROTECCIÓN PERSONAL EN INTERNET
 
+---
+
+<div align="center">
+
+## Universidad San Carlos de Guatemala
+### Facultad de Ingeniería en Ciencias y Sistemas
+#### Curso: Comunicación Asertiva
+#### Ciclo Académico: 2025
+
+---
+
+**Presentado por:**
+
+| # | Nombre | Carné |
+|---|--------|-------|
+| Expositor 1 | [Diego Enrique Flores Ruiz] | [202503934] |
+| Expositor 2 | [Luis Mario Monterroso Juarez] | [202500066] |
+| Expositor 3 | [Cesar Emmanuel Cipriano López ] | [202506978] |
+| Expositor 4 | [Wagner Maximiliano Ley Monroy] | [202502811] |
+| Expositor 5 | [Daniel Estuardo Chicoj Bolaños] | [202500165  ] |
+| Expositor 6 | Diego René Estrada Juárez | 202505250 |
+
+**Auxiliar:** [Kevin]
+
+**Fecha de entrega:** [24, 03, 2026]
+
+</div>
+
+---
+
+# TABLA DE CONTENIDOS
+
+1. [Introducción](#1-introducción)
+2. [Objetivos](#2-objetivos)
+3. [Descripción General del Tema y Subtemas](#3-descripción-general-del-tema-y-subtemas)
+   - 3.1 ¿Qué es la Ciberseguridad? — Expositor 1
+   - 3.2 Ingeniería Social y Amenazas Comunes — Expositor 2
+   - 3.3 Protección de Contraseñas e Identidad Digital — Expositor 3
+   - 3.4 Cómo Prevenirse e Informarse en Ciberseguridad — Expositor 4
+   - 3.5 Ciberseguridad en el Desarrollo de Software — Expositor 5
+   - 3.6 Actividad de Validación y Cierre — Expositor 6
+4. [Autoevaluación FODA de la Conferencia](#4-autoevaluación-foda-de-la-conferencia)
+   - 4.1 FODA por Integrante
+   - 4.2 FODA Grupal
+5. [Comunicación Asertiva](#5-comunicación-asertiva)
+6. [Conclusiones](#6-conclusiones)
+7. [Anexos](#7-anexos)
 ---
 # 1. INTRODUCCIÓN
 
