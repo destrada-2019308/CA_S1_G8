@@ -77,3 +77,85 @@ La seguridad no es una capa que se agrega al final de un proyecto; es una mental
 | **Externo** | **OPORTUNIDADES:** La apertura participativa captó la atención del auditorio para toda la sesión, estableciendo el tono positivo que favoreció la receptividad hacia los expositores siguientes. | **AMENAZAS:** El rompehielos dependía de la disposición del público a participar; en grupos más reservados podría no haber funcionado igual. La amplitud del concepto de ciberseguridad en 5 minutos puede generar expectativas que no todos los subtemas alcancen a satisfacer. |
 
 ---
+## 3.5 Ciberseguridad en el Desarrollo de Software — Expositor 5 - Daniel Estuardo Chicoj Bolaños
+
+### La Responsabilidad del Desarrollador
+
+Los estudiantes de Ingeniería en Sistemas también son **futuros creadores de software**, y eso implica una responsabilidad adicional: el código que escriban puede afectar la seguridad de miles de personas. Un error de validación, una contraseña almacenada en texto plano o una librería desactualizada pueden ser la puerta de entrada a un ataque masivo.
+
+### Desarrollo Seguro de Software (Security by Design)
+
+El **desarrollo seguro de software** es la práctica de integrar la seguridad en cada etapa del ciclo de vida del desarrollo (SDLC), en lugar de tratarla como algo que se agrega al final. Este enfoque se conoce como **Security by Design** o **Shift Left Security**: mover las consideraciones de seguridad hacia el inicio del proceso, donde corregir errores es más fácil y menos costoso.
+
+### OWASP Top 10: Las Vulnerabilidades Más Críticas
+
+La organización **OWASP** publica periódicamente el Top 10 de vulnerabilidades más críticas en aplicaciones web:
+
+**1. Inyección SQL (SQL Injection)**
+
+Ocurre cuando un atacante inserta código SQL malicioso en una entrada del sistema para manipular la base de datos.
+
+*Ejemplo:* En un formulario de login sin validación, escribir `' OR '1'='1` puede conceder acceso sin contraseña válida.
+
+*Prevención:* Usar consultas preparadas (prepared statements) y nunca construir consultas SQL concatenando cadenas de texto directamente.
+
+**2. Cross-Site Scripting (XSS)**
+
+El atacante inyecta código JavaScript malicioso en una página web. Cuando otros usuarios la visitan, el script se ejecuta en su navegador y puede robar cookies, sesiones o redirigirlos a sitios maliciosos.
+
+*Prevención:* Escapar y sanitizar toda entrada del usuario antes de mostrarla. Implementar Content Security Policy (CSP).
+
+**3. Autenticación y Gestión de Sesiones Inseguras**
+
+Mecanismos de login débiles: contraseñas sin hashear, sesiones que no expiran, tokens predecibles o transmisión de credenciales sin cifrado.
+
+*Prevención:* Hashear contraseñas con **bcrypt** o **Argon2**, implementar expiración de sesiones, usar HTTPS en toda la aplicación.
+
+**4. Exposición de Datos Sensibles**
+
+Almacenar o transmitir datos sin cifrado adecuado: contraseñas en texto plano, datos transmitidos por HTTP en lugar de HTTPS.
+
+*Prevención:* Cifrar datos sensibles en reposo y en tránsito. Nunca almacenar contraseñas en texto plano.
+
+**5. Control de Acceso Roto (Broken Access Control)**
+
+Usuarios que acceden a recursos o funciones para los que no tienen permiso (por ejemplo, un usuario normal que accede al panel de administración cambiando la URL).
+
+*Prevención:* Validar permisos en el servidor para cada solicitud; nunca confiar en el cliente para controlar el acceso.
+
+**6. Componentes con Vulnerabilidades Conocidas**
+
+Usar librerías, frameworks o dependencias desactualizadas que tienen vulnerabilidades documentadas.
+
+*Prevención:* Mantener actualizadas todas las dependencias. Usar herramientas como `npm audit`, OWASP Dependency-Check o Snyk.
+
+### Buenas Prácticas de Seguridad en el Desarrollo
+
+- **Nunca confiar en la entrada del usuario:** Toda entrada debe validarse y sanitizarse del lado del servidor.
+- **Principio de mínimo privilegio:** Cada componente debe tener solo los permisos estrictamente necesarios.
+- **No escribir sistemas de cifrado propios:** Usar librerías criptográficas ya probadas y auditadas.
+- **Guardar secretos de forma segura:** Las claves API, tokens y contraseñas nunca deben estar en el código fuente. Usar variables de entorno o gestores de secretos.
+- **Usar HTTPS siempre:** Cualquier aplicación web debe cifrar la comunicación entre el navegador y el servidor.
+- **Manejar errores correctamente:** Los mensajes de error no deben revelar información sensible del sistema.
+
+### DevSecOps: Seguridad Integrada en el Ciclo de Desarrollo
+
+El concepto de **DevSecOps** integra la seguridad dentro del flujo de trabajo de desarrollo, haciendo que sea responsabilidad de todos los involucrados, no solo de un equipo especializado.
+
+| Herramienta | Tipo | Función |
+|-------------|------|---------|
+| **SonarQube** | SAST | Analiza el código fuente en busca de vulnerabilidades sin ejecutarlo |
+| **OWASP ZAP** | DAST | Prueba la aplicación en ejecución buscando vulnerabilidades |
+| **Snyk** | Gestión de dependencias | Detecta vulnerabilidades en dependencias y contenedores |
+
+La seguridad en el software no es una característica que se añade al final: es una mentalidad que se cultiva desde el primer proyecto.
+
+---
+### Expositor 5 — Ciberseguridad en el Desarrollo de Software - Daniel Estuardo Chicoj Bolaños
+
+| | Aspectos Positivos | Aspectos a Mejorar |
+|-|-------------------|-------------------|
+| **Interno** | **FORTALEZAS:** Este bloque diferencia la capacitación de otras genéricas, al conectar el tema directamente con la identidad profesional del público. El ejemplo de inyección SQL con código real hizo tangible una vulnerabilidad que de otro modo sería abstracta. La mención de DevSecOps posiciona al expositor con visión de industria actual. | **DEBILIDADES:** El OWASP Top 10 es muy extenso para 10 minutos; algunas vulnerabilidades quedaron explicadas superficialmente. El concepto de DevSecOps, siendo más avanzado, pudo haber quedado poco claro para estudiantes de primer año. |
+| **Externo** | **OPORTUNIDADES:** Al ser primer año, este es el mejor momento para sembrar una mentalidad de seguridad que acompañe al estudiante durante toda su carrera. Este subtema puede ser el más recordado por su relevancia profesional directa. | **AMENAZAS:** Los estudiantes de primer año aún no tienen experiencia en desarrollo, lo que puede dificultar la identificación con escenarios como "validar entradas del usuario" o "usar consultas preparadas". |
+
+---
