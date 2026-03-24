@@ -77,7 +77,7 @@ La seguridad no es una capa que se agrega al final de un proyecto; es una mental
 | **Externo** | **OPORTUNIDADES:** La apertura participativa captó la atención del auditorio para toda la sesión, estableciendo el tono positivo que favoreció la receptividad hacia los expositores siguientes. | **AMENAZAS:** El rompehielos dependía de la disposición del público a participar; en grupos más reservados podría no haber funcionado igual. La amplitud del concepto de ciberseguridad en 5 minutos puede generar expectativas que no todos los subtemas alcancen a satisfacer. |
 
 ---
-## 3.3 Protección de Contraseñas e Identidad Digital — Expositor 3
+## 3.3 Protección de Contraseñas e Identidad Digital — Cesar Cipriano
 
 ### ¿Por Qué las Contraseñas Son Tan Importantes?
 
@@ -152,7 +152,13 @@ Los atacantes pueden usar información pública en redes sociales para construir
 - No publicar información sensible: dirección, número de teléfono, documentos.
 - Usar correos desechables para registros en sitios de poca confianza.
 - Buscar el propio nombre en Google periódicamente para conocer qué información es pública.
+  
+### Cesar Cipriano — Protección de Contraseñas e Identidad Digital
 
+| | Aspectos Positivos | Aspectos a Mejorar |
+|-|-------------------|-------------------|
+| **Interno** | **FORTALEZAS:** El subtema fue altamente práctico y accionable. La comparación directa entre contraseñas débiles y fuertes, junto con la técnica de la passphrase, entregó herramientas concretas e inmediatamente aplicables. La sección de identidad digital y huella digital amplió el tema de forma integral. | **DEBILIDADES:** La cantidad de contenido (contraseñas, gestores, 2FA, identidad digital, huella pasiva y activa) en 10 minutos pudo sentirse densa. Una demostración en vivo de un gestor de contraseñas habría sido más impactante que solo mencionarlo. |
+| **Externo** | **OPORTUNIDADES:** Es el subtema con mayor aplicabilidad inmediata: el público puede implementar estas recomendaciones esa misma noche, lo que le da un valor diferencial dentro de la capacitación. | **AMENAZAS:** Existe resistencia cultural al uso de gestores de contraseñas por desconfianza. Sin tiempo para responder esa objeción, algunos asistentes pueden salir sin adoptar la recomendación. |
 ---
 ## 3.4 Cómo Prevenirse e Informarse en Ciberseguridad
 
