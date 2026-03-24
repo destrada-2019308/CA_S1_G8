@@ -15,14 +15,14 @@
 
 | # | Nombre | Carné |
 |---|--------|-------|
-| Expositor 1 | [Diego Enrique Flores Ruiz] | [202503934] |
-| Expositor 2 | [Luis Mario Monterroso Juarez] | [202500066] |
-| Expositor 3 | [Cesar Emmanuel Cipriano López ] | [202506978] |
-| Expositor 4 | [Wagner Maximiliano Ley Monroy] | [202502811] |
-| Expositor 5 | [Daniel Estuardo Chicoj Bolaños] | [202500165  ] |
+| Expositor 1 | Diego Enrique Flores Ruiz | 202503934 |
+| Expositor 2 | Luis Mario Monterroso Juarez | 202500066 |
+| Expositor 3 | Cesar Emmanuel Cipriano López | 202506978 |
+| Expositor 4 | Wagner Maximiliano Ley Monroy | 202502811 |
+| Expositor 5 | Daniel Estuardo Chicoj Bolaños | 202500165  |
 | Expositor 6 | Diego René Estrada Juárez | 202505250 |
 
-**Auxiliar:** [Kevin]
+**Auxiliar:** [Kevin Jose Santos Salazar]
 
 **Fecha de entrega:** [24, 03, 2026]
 
@@ -115,16 +115,6 @@ Las amenazas en ciberseguridad pueden clasificarse en cuatro categorías:
 
 La seguridad no es una capa que se agrega al final de un proyecto; es una mentalidad que debe estar presente desde el primer día. Cuanto antes se incorporen estos conceptos a la formación de un ingeniero, menor será la probabilidad de que en su vida profesional cometa errores que comprometan la seguridad de terceros.
 
----
-
-### Diego Flores — Introducción, Rompehielos y ¿Qué es la Ciberseguridad?
-
-| | Aspectos Positivos | Aspectos a Mejorar |
-|-|-------------------|-------------------|
-| **Interno** | **FORTALEZAS:** La dinámica del rompehielos "¿Quién ha caído?" generó participación inmediata y creó una atmósfera de apertura desde el primer minuto. La explicación de la Tríada CIA fue clara y accesible para audiencias no técnicas. Buena proyección de voz y seguridad al presentar. | **DEBILIDADES:** El tiempo disponible para el subtema 1 fue reducido (5 minutos) tras la introducción, lo que limitó la profundidad de la explicación sobre tipos de amenazas. La transición entre el rompehielos y el contenido técnico podría haberse planificado con mayor fluidez. |
-| **Externo** | **OPORTUNIDADES:** La apertura participativa captó la atención del auditorio para toda la sesión, estableciendo el tono positivo que favoreció la receptividad hacia los expositores siguientes. | **AMENAZAS:** El rompehielos dependía de la disposición del público a participar; en grupos más reservados podría no haber funcionado igual. La amplitud del concepto de ciberseguridad en 5 minutos puede generar expectativas que no todos los subtemas alcancen a satisfacer. |
-
----
 ## 3.3 Protección de Contraseñas e Identidad Digital — Cesar Cipriano
 
 ### ¿Por Qué las Contraseñas Son Tan Importantes?
@@ -201,13 +191,7 @@ Los atacantes pueden usar información pública en redes sociales para construir
 - Usar correos desechables para registros en sitios de poca confianza.
 - Buscar el propio nombre en Google periódicamente para conocer qué información es pública.
   
-### Cesar Cipriano — Protección de Contraseñas e Identidad Digital
 
-| | Aspectos Positivos | Aspectos a Mejorar |
-|-|-------------------|-------------------|
-| **Interno** | **FORTALEZAS:** El subtema fue altamente práctico y accionable. La comparación directa entre contraseñas débiles y fuertes, junto con la técnica de la passphrase, entregó herramientas concretas e inmediatamente aplicables. La sección de identidad digital y huella digital amplió el tema de forma integral. | **DEBILIDADES:** La cantidad de contenido (contraseñas, gestores, 2FA, identidad digital, huella pasiva y activa) en 10 minutos pudo sentirse densa. Una demostración en vivo de un gestor de contraseñas habría sido más impactante que solo mencionarlo. |
-| **Externo** | **OPORTUNIDADES:** Es el subtema con mayor aplicabilidad inmediata: el público puede implementar estas recomendaciones esa misma noche, lo que le da un valor diferencial dentro de la capacitación. | **AMENAZAS:** Existe resistencia cultural al uso de gestores de contraseñas por desconfianza. Sin tiempo para responder esa objeción, algunos asistentes pueden salir sin adoptar la recomendación. |
----
 ## 3.4 Cómo Prevenirse e Informarse en Ciberseguridad
 
 ### La Ciberseguridad Como Hábito
@@ -285,15 +269,7 @@ Los antivirus modernos detectan no solo virus, sino también malware, spyware y 
 | OSCP (Offensive Security Certified Professional) | Avanzado |
 | CISSP (Certified Information Systems Security Professional) | Avanzado |
 
----
-### Maximiliano Ley  — Cómo Prevenirse e Informarse en Ciberseguridad
 
-| | Aspectos Positivos | Aspectos a Mejorar |
-|-|-------------------|-------------------|
-| **Interno** | **FORTALEZAS:** La presentación de herramientas concretas con sus URLs hizo el contenido inmediatamente utilizable. La sección de certificaciones fue valiosa para estudiantes pensando en su desarrollo profesional. | **DEBILIDADES:** La sección de hábitos de seguridad fue extensa y pudo sintetizarse en una checklist visual de alto impacto. Algunos recursos mencionados (como DNS sobre HTTPS) son más avanzados y pueden generar confusión en primer año. |
-| **Externo** | **OPORTUNIDADES:** Al proporcionar recursos concretos de aprendizaje, este bloque siembra motivación para continuar explorando la ciberseguridad más allá del aula. Varios asistentes pueden seguir estos recursos en su tiempo libre. | **AMENAZAS:** La abundancia de herramientas y plataformas mencionadas puede resultar abrumadora. Sin un criterio de priorización claro, el público puede salir sin saber por cuál empezar. |
-
----
 ## 3.5 Ciberseguridad en el Desarrollo de Software — Expositor 5 - Daniel Estuardo Chicoj Bolaños
 
 ### La Responsabilidad del Desarrollador
@@ -366,14 +342,107 @@ El concepto de **DevSecOps** integra la seguridad dentro del flujo de trabajo de
 | **Snyk** | Gestión de dependencias | Detecta vulnerabilidades en dependencias y contenedores |
 
 La seguridad en el software no es una característica que se añade al final: es una mentalidad que se cultiva desde el primer proyecto.
+---
+## 3.6 Actividad de Validación y Cierre — Expositor 6
+
+### Actividad: "¿Seguro o Inseguro?"
+
+Para cerrar la capacitación, se realizó una actividad donde el público debía clasificar situaciones reales como **SEGURAS** o **INSEGURAS**, justificando su respuesta. Los casos presentados cubrían los cinco bloques anteriores:
+
+**Situación 1:**
+> Juan recibe un correo de su banco diciendo que su cuenta será bloqueada si no verifica sus datos en las próximas 2 horas. Hace clic en el enlace del correo y escribe su usuario y contraseña.
+
+**Respuesta: INSEGURA.** Es phishing. Los bancos nunca solicitan credenciales por correo electrónico. La urgencia artificial es una señal clásica de manipulación.
+
+**Situación 2:**
+> María usa la misma contraseña "MariaSistemas2024!" para su correo, su cuenta de GitHub y su cuenta universitaria, pero activa el 2FA en todos.
+
+**Respuesta: PARCIALMENTE INSEGURA.** Reutilizar contraseñas es un riesgo aunque el 2FA esté activo. Si una cuenta es comprometida, el atacante puede intentar las mismas credenciales en las demás (credential stuffing).
+
+**Situación 3:**
+> Carlos encuentra una USB en el pasillo de la universidad. Le da curiosidad y la conecta a su computadora para ver qué contiene.
+
+**Respuesta: INSEGURA.** Es un ataque de baiting. Una USB desconocida puede ejecutar malware automáticamente al conectarse.
+
+**Situación 4:**
+> Ana desarrolla una aplicación web y almacena las contraseñas de los usuarios en la base de datos usando bcrypt. Además, todas las comunicaciones van por HTTPS.
+
+**Respuesta: SEGURA.** Son buenas prácticas fundamentales del desarrollo seguro: hasheo de contraseñas con algoritmo robusto y cifrado de comunicaciones.
+
+**Situación 5:**
+> Pedro necesita conectarse al correo del trabajo desde una cafetería y usa la red Wi-Fi pública del lugar, pero antes activa su VPN.
+
+**Respuesta: SEGURA.** Usar una VPN en redes públicas cifra el tráfico y protege la comunicación, mitigando el riesgo de ataques MitM.
+
+### Resumen y Reflexión Final
+
+Al cierre de la capacitación se sintetizaron los mensajes clave de toda la sesión:
+
+- La ciberseguridad es **responsabilidad de todos**, no solo de los expertos.
+- La **ingeniería social** ataca personas, no máquinas. Reconocer el phishing puede prevenir grandes consecuencias.
+- Las **contraseñas fuertes y únicas**, un gestor de contraseñas y el 2FA son las medidas más efectivas para proteger la identidad digital.
+- **Actualizar el software, usar VPN, hacer backups y verificar antes de hacer clic** son hábitos que marcan la diferencia.
+- Como **futuros desarrolladores**, el código inseguro afecta a miles de usuarios. Conocer el OWASP Top 10 y aplicar Security by Design son puntos de partida esenciales.
+
+> *"La ciberseguridad no es un estado que se alcanza, es un proceso continuo. Las amenazas evolucionan, los atacantes aprenden y los sistemas cambian. Mantenerse informado, curioso y crítico es la mejor defensa que pueden tener."*
 
 ---
-### Expositor 5 — Ciberseguridad en el Desarrollo de Software - Daniel Estuardo Chicoj Bolaños
+
+# 4. AUTOEVALUACIÓN FODA DE LA CONFERENCIA
+
+## 4.1 FODA por Integrante
+
+### Expositor 1 — Introducción, Rompehielos y ¿Qué es la Ciberseguridad?
+
+| | Aspectos Positivos | Aspectos a Mejorar |
+|-|-------------------|-------------------|
+| **Interno** | **FORTALEZAS:** La dinámica del rompehielos "¿Quién ha caído?" generó participación inmediata y creó una atmósfera de apertura desde el primer minuto. La explicación de la Tríada CIA fue clara y accesible para audiencias no técnicas. Buena proyección de voz y seguridad al presentar. | **DEBILIDADES:** El tiempo disponible para el subtema 1 fue reducido (5 minutos) tras la introducción, lo que limitó la profundidad de la explicación sobre tipos de amenazas. La transición entre el rompehielos y el contenido técnico podría haberse planificado con mayor fluidez. |
+| **Externo** | **OPORTUNIDADES:** La apertura participativa captó la atención del auditorio para toda la sesión, estableciendo el tono positivo que favoreció la receptividad hacia los expositores siguientes. | **AMENAZAS:** El rompehielos dependía de la disposición del público a participar; en grupos más reservados podría no haber funcionado igual. La amplitud del concepto de ciberseguridad en 5 minutos puede generar expectativas que no todos los subtemas alcancen a satisfacer. |
+
+---
+
+### Expositor 2 — Ingeniería Social y Amenazas Comunes
+
+| | Aspectos Positivos | Aspectos a Mejorar |
+|-|-------------------|-------------------|
+| **Interno** | **FORTALEZAS:** Dominio sólido del tema. Los ejemplos concretos —especialmente el del correo de Gmail— hicieron el contenido cercano a la experiencia del público. La estructura progresiva (definición → tipos → por qué funciona → cómo identificarlo) fue lógica y efectiva. La mención de Kevin Mitnick añadió autoridad al contenido. | **DEBILIDADES:** El subtema es amplio y con 10 minutos fue necesario omitir casos más avanzados. Podría haberse mostrado un ejemplo visual de un correo de phishing real (con datos anonimizados) para mayor impacto visual y pedagógico. |
+| **Externo** | **OPORTUNIDADES:** Es el subtema con mayor identificación del público, ya que la mayoría ha recibido intentos de phishing. Esa cercanía facilita la asimilación del aprendizaje y genera preguntas genuinas. | **AMENAZAS:** La normalización de los ataques ("siempre me llegan estos correos") puede generar en el público una falsa sensación de inmunidad que reduzca la atención prestada. |
+
+---
+
+### Expositor 3 — Protección de Contraseñas e Identidad Digital
+
+| | Aspectos Positivos | Aspectos a Mejorar |
+|-|-------------------|-------------------|
+| **Interno** | **FORTALEZAS:** El subtema fue altamente práctico y accionable. La comparación directa entre contraseñas débiles y fuertes, junto con la técnica de la passphrase, entregó herramientas concretas e inmediatamente aplicables. La sección de identidad digital y huella digital amplió el tema de forma integral. | **DEBILIDADES:** La cantidad de contenido (contraseñas, gestores, 2FA, identidad digital, huella pasiva y activa) en 10 minutos pudo sentirse densa. Una demostración en vivo de un gestor de contraseñas habría sido más impactante que solo mencionarlo. |
+| **Externo** | **OPORTUNIDADES:** Es el subtema con mayor aplicabilidad inmediata: el público puede implementar estas recomendaciones esa misma noche, lo que le da un valor diferencial dentro de la capacitación. | **AMENAZAS:** Existe resistencia cultural al uso de gestores de contraseñas por desconfianza. Sin tiempo para responder esa objeción, algunos asistentes pueden salir sin adoptar la recomendación. |
+
+---
+
+### Expositor 4 — Cómo Prevenirse e Informarse en Ciberseguridad
+
+| | Aspectos Positivos | Aspectos a Mejorar |
+|-|-------------------|-------------------|
+| **Interno** | **FORTALEZAS:** La presentación de herramientas concretas con sus URLs hizo el contenido inmediatamente utilizable. La Regla 3-2-1 para backups fue memorable y bien explicada. La sección de certificaciones fue valiosa para estudiantes pensando en su desarrollo profesional. | **DEBILIDADES:** La sección de hábitos de seguridad fue extensa y pudo sintetizarse en una checklist visual de alto impacto. Algunos recursos mencionados (como DNS sobre HTTPS) son más avanzados y pueden generar confusión en primer año. |
+| **Externo** | **OPORTUNIDADES:** Al proporcionar recursos concretos de aprendizaje, este bloque siembra motivación para continuar explorando la ciberseguridad más allá del aula. Varios asistentes pueden seguir estos recursos en su tiempo libre. | **AMENAZAS:** La abundancia de herramientas y plataformas mencionadas puede resultar abrumadora. Sin un criterio de priorización claro, el público puede salir sin saber por cuál empezar. |
+
+---
+
+### Expositor 5 — Ciberseguridad en el Desarrollo de Software
 
 | | Aspectos Positivos | Aspectos a Mejorar |
 |-|-------------------|-------------------|
 | **Interno** | **FORTALEZAS:** Este bloque diferencia la capacitación de otras genéricas, al conectar el tema directamente con la identidad profesional del público. El ejemplo de inyección SQL con código real hizo tangible una vulnerabilidad que de otro modo sería abstracta. La mención de DevSecOps posiciona al expositor con visión de industria actual. | **DEBILIDADES:** El OWASP Top 10 es muy extenso para 10 minutos; algunas vulnerabilidades quedaron explicadas superficialmente. El concepto de DevSecOps, siendo más avanzado, pudo haber quedado poco claro para estudiantes de primer año. |
 | **Externo** | **OPORTUNIDADES:** Al ser primer año, este es el mejor momento para sembrar una mentalidad de seguridad que acompañe al estudiante durante toda su carrera. Este subtema puede ser el más recordado por su relevancia profesional directa. | **AMENAZAS:** Los estudiantes de primer año aún no tienen experiencia en desarrollo, lo que puede dificultar la identificación con escenarios como "validar entradas del usuario" o "usar consultas preparadas". |
+
+---
+
+### Expositor 6 — Actividad de Validación y Cierre
+
+| | Aspectos Positivos | Aspectos a Mejorar |
+|-|-------------------|-------------------|
+| **Interno** | **FORTALEZAS:** La actividad "¿Seguro o Inseguro?" fue el momento más participativo de toda la capacitación. Las situaciones eran realistas, variadas y cubrían los cinco subtemas anteriores, funcionando como repaso integrador. El cierre con la reflexión final dejó un mensaje memorable y motivador. | **DEBILIDADES:** Cinco minutos para cinco situaciones es muy ajustado; si el público debatió algún caso, el tiempo se comprimió. El cierre podría haberse apoyado en una diapositiva con los puntos clave para facilitar la retención visual. |
+| **Externo** | **OPORTUNIDADES:** La actividad de cierre es la parte que el público recuerda más, cerrando con participación activa en lugar de recepción pasiva. Puede inspirar a otros grupos a incorporar dinámicas similares. | **AMENAZAS:** Si el público estaba cansado al final de los 60 minutos, la participación en la actividad podría haber sido menor de lo esperado. El espacio para preguntas depende del tiempo restante, que puede ser escaso. |
 
 ---
 
@@ -412,3 +481,241 @@ La seguridad en el software no es una característica que se añade al final: es
 - **Dependencia de la participación del público:** Dinámicas como el rompehielos y la actividad de cierre asumen un público dispuesto a participar activamente.
 
 ---
+# 5. COMUNICACIÓN ASERTIVA
+
+## 5.1 ¿Qué es la Comunicación Asertiva?
+
+La **comunicación asertiva** es la habilidad de expresar pensamientos, sentimientos, opiniones y necesidades de manera directa, honesta y respetuosa, sin pasividad ni agresividad. Representa el punto de equilibrio entre la comunicación pasiva —que suprime las propias necesidades para evitar conflictos— y la comunicación agresiva —que impone las propias necesidades ignorando las de los demás.
+
+En el contexto de una capacitación grupal desarrollada en el curso de Comunicación Asertiva, este principio no fue solo un contenido evaluado: fue la herramienta práctica que el equipo utilizó para coordinarse, resolver diferencias y presentarse con coherencia ante el público.
+
+## 5.2 Aplicación Durante el Proceso
+
+### En la Planificación: Escucha Activa y Distribución de Roles
+
+En las reuniones de coordinación, el grupo practicó la **escucha activa**: prestando atención plena a lo que cada integrante comunicaba, evitando interrupciones y validando las ideas antes de evaluarlas. Esto fue especialmente relevante al momento de distribuir los bloques de la capacitación, donde cada integrante tenía preferencias y fortalezas distintas.
+
+En lugar de imponer o ceder pasivamente, se realizó una discusión estructurada donde cada uno expuso sus razones, y la asignación final respetó tanto las fortalezas individuales como el equilibrio del grupo. Se utilizaron estructuras de expresión asertiva como: *"Mi propuesta es… porque…"* y *"Entiendo tu punto; sin embargo, considero que…"*
+
+### En la Preparación: Retroalimentación Constructiva
+
+Una de las aplicaciones más concretas de la comunicación asertiva fue en las sesiones de revisión de materiales. Al revisar las diapositivas de los compañeros, el grupo aplicó la técnica del **sándwich de retroalimentación** (positivo → área de mejora → positivo), garantizando que las sugerencias fueran bien recibidas y motivadoras.
+
+> *Ejemplo aplicado:* "Tus diapositivas tienen muy buena estructura y los ejemplos son claros. Creo que ganarías más impacto si reduces el texto de la diapositiva 4 y lo desarrollas verbalmente. En general, el bloque está muy sólido."
+
+### En la Presentación: Lenguaje Verbal y No Verbal
+
+La comunicación asertiva también se expresó en el lenguaje corporal durante la conferencia. Los expositores trabajaron conscientemente en postura abierta, contacto visual distribuido con el público, tono de voz proyectado con variaciones de ritmo para mantener la atención, y pausas estratégicas después de ideas clave.
+
+Las transiciones entre expositores se planificaron con frases de paso que reconocían el aporte del compañero anterior y anticipaban el siguiente tema, manteniendo la continuidad de la sesión.
+
+### Manejo Constructivo de Diferencias
+
+Durante la preparación surgieron diferencias de opinión respecto a la profundidad técnica del bloque 5 y el tiempo destinado a la actividad de cierre. El grupo abordó estas diferencias argumentando con base en el perfil del público objetivo (estudiantes de primer año) y llegando a acuerdos que respetaron las preocupaciones de todas las partes.
+
+## 5.3 Desafíos Comunicativos Identificados
+
+- **Coordinación en entornos digitales:** La mayor parte de la coordinación ocurrió por medios virtuales, donde la ausencia de lenguaje no verbal y tono generó malentendidos que debieron aclararse en reuniones presenciales.
+- **Diferencias de estilo comunicativo:** Armonizar los distintos estilos de cada integrante para lograr una presentación cohesiva requirió práctica y ajustes.
+- **Gestión de la ansiedad:** Algunos integrantes experimentaron ansiedad al inicio de su exposición, lo que afectó temporalmente la claridad y el ritmo de su comunicación. El apoyo del grupo fue clave para superar ese momento.
+
+## 5.4 Aprendizajes Sobre Comunicación Asertiva
+
+La experiencia demostró que la comunicación asertiva no es solo una habilidad evaluable: es una disposición de respeto hacia uno mismo y hacia los demás que impacta directamente la calidad del trabajo en equipo. En la ingeniería —donde el trabajo colaborativo y multidisciplinario es la norma— esta habilidad es tan importante como el conocimiento técnico. El conocimiento sin comunicación efectiva pierde gran parte de su impacto.
+
+---
+
+# 6. CONCLUSIONES
+
+**1. La ciberseguridad es una responsabilidad personal antes que tecnológica.** La mayor parte de los ataques exitosos no explotan vulnerabilidades de sistemas sofisticados, sino comportamientos humanos predecibles: la curiosidad, la urgencia, la confianza y la comodidad. Cambiar este comportamiento es más efectivo que cualquier herramienta de seguridad.
+
+**2. La ingeniería social es la amenaza más subestimada.** El phishing, el pretexting y el baiting siguen siendo los vectores de ataque más efectivos precisamente porque no requieren conocimiento técnico avanzado para ejecutarse. La defensa más eficaz no es tecnológica: es la conciencia crítica del usuario ante mensajes que generan urgencia, miedo o curiosidad artificial.
+
+**3. La gestión de contraseñas es el punto de entrada más común y más evitable.** El 80% de las brechas de seguridad tienen relación con contraseñas débiles o reutilizadas. La adopción de un gestor de contraseñas y la activación del 2FA son decisiones que cualquier persona puede tomar hoy, sin costo significativo, y que reducen drásticamente su superficie de ataque.
+
+**4. La seguridad digital requiere hábitos sostenidos, no soluciones puntuales.** Actualizar el software, usar VPN en redes públicas y mantener copias de seguridad actualizadas no son acciones que se realizan una vez; son prácticas continuas. La ciberseguridad efectiva es el resultado de comportamientos consistentes, no de reacciones ante incidentes.
+
+**5. La responsabilidad del ingeniero de sistemas va más allá del usuario.** Los ingenieros en sistemas tienen la capacidad de afectar la seguridad de miles de personas con las decisiones que toman al escribir código. Conocer el OWASP Top 10, adoptar la mentalidad de Security by Design y entender DevSecOps son parte del perfil mínimo de un desarrollador responsable.
+
+**6. La educación temprana en ciberseguridad multiplica su impacto.** Los conceptos aprendidos en primer año de la carrera acompañarán al estudiante durante toda su vida profesional. Sembrar estos conceptos desde el inicio es más efectivo que intentar corregir malos hábitos consolidados años después.
+
+**7. Comunicar bien es tan importante como saber.** La capacitación demostró que el conocimiento técnico pierde impacto si no se comunica de forma clara, empática y estructurada. La comunicación asertiva fue la herramienta que permitió que el conocimiento llegara efectivamente al público.
+
+**8. El trabajo colaborativo exige y fortalece la comunicación asertiva.** Las diferencias de criterio, los ajustes de tiempo y las revisiones de materiales fueron oportunidades reales para practicar la escucha activa, la retroalimentación constructiva y la expresión directa y respetuosa. El resultado final fue un producto mejor que cualquiera que cada integrante hubiera producido individualmente.
+
+---
+
+# 7. ANEXOS
+
+## Anexo A: Guión Completo de la Capacitación
+
+El guión completo fue el documento base utilizado para la preparación y ejecución de la capacitación. Contiene el texto de apoyo de cada bloque, las instrucciones de dinámica del rompehielos, las transiciones entre expositores y la actividad de validación.
+
+> **Archivo adjunto:** `guion_ciberseguridad.pdf`
+
+**Estructura del guión:**
+
+| Bloque | Expositor | Tiempo | Contenido principal |
+|--------|-----------|--------|---------------------|
+| Introducción + Rompehielos | Expositor 1 | 5 min | Bienvenida, presentación del equipo, dinámica "¿Quién ha caído?" |
+| Subtema 1: ¿Qué es la ciberseguridad? | Expositor 1 | 5 min | Definición, Tríada CIA, tipos de amenazas |
+| Subtema 2: Ingeniería social | Expositor 2 | 10 min | Phishing y variantes, pretexting, baiting, quid pro quo, tailgating, scareware |
+| Subtema 3: Contraseñas e identidad digital | Expositor 3 | 10 min | Errores comunes, contraseñas seguras, passphrase, gestores, 2FA, huella digital |
+| Subtema 4: Prevención e información | Expositor 4 | 10 min | Hábitos, herramientas, Regla 3-2-1, recursos web, certificaciones |
+| Subtema 5: Seguridad en el software | Expositor 5 | 10 min | OWASP Top 10, buenas prácticas de desarrollo, DevSecOps |
+| Actividad de validación + Cierre | Expositor 6 | 10 min | "¿Seguro o Inseguro?", resumen, reflexión final, preguntas |
+
+---
+
+## Anexo B: Cronograma Detallado (Rundown)
+
+| Tiempo | Sección | Responsable |
+|--------|---------|-------------|
+| 0:00 – 0:05 | Introducción, presentación del equipo y rompehielos | Expositor 1 |
+| 0:05 – 0:10 | Subtema 1: ¿Qué es la ciberseguridad? Tríada CIA | Expositor 1 |
+| 0:10 – 0:20 | Subtema 2: Ingeniería social y amenazas comunes | Expositor 2 |
+| 0:20 – 0:30 | Subtema 3: Protección de contraseñas e identidad digital | Expositor 3 |
+| 0:30 – 0:40 | Subtema 4: Cómo prevenirse e informarse | Expositor 4 |
+| 0:40 – 0:50 | Subtema 5: Ciberseguridad en el desarrollo de software | Expositor 5 |
+| 0:50 – 0:55 | Actividad de validación del aprendizaje | Expositor 6 |
+| 0:55 – 1:00 | Cierre, resumen y preguntas | Expositor 6 |
+
+---
+
+## Anexo C: Diapositivas de la Capacitación
+
+> Las diapositivas utilizadas se adjuntan como archivo digital independiente. A continuación se detalla el contenido de cada set:
+
+**Expositor 1 — ¿Qué es la Ciberseguridad?**
+- Slide 1: Portada del bloque
+- Slide 2: Definición de ciberseguridad
+- Slide 3: ¿Por qué importa para un estudiante de sistemas?
+- Slide 4: La Tríada CIA — Diagrama de los tres pilares
+- Slide 5: Tipos de amenazas — Externas, internas, pasivas, activas
+- Slide 6: Transición al siguiente bloque
+
+**Expositor 2 — Ingeniería Social**
+- Slide 1: Portada — "El eslabón más débil eres tú"
+- Slide 2: Definición — Kevin Mitnick y el factor humano
+- Slide 3: Phishing — Definición y ejemplo del correo de Gmail
+- Slide 4: Variantes del phishing — Tabla comparativa
+- Slide 5: Otras técnicas — Pretexting, baiting, quid pro quo, tailgating, scareware
+- Slide 6: ¿Por qué funciona? — Urgencia, autoridad, reciprocidad, curiosidad, miedo
+- Slide 7: Cómo identificar un ataque — Lista de señales de alerta
+- Slide 8: Transición al siguiente bloque
+
+**Expositor 3 — Contraseñas e Identidad Digital**
+- Slide 1: Portada — "Tu contraseña es tu llave"
+- Slide 2: Estadística — 80% de brechas vinculadas a contraseñas
+- Slide 3: Errores más comunes
+- Slide 4: Qué hace segura a una contraseña — Criterios + comparativa débil vs. fuerte
+- Slide 5: Técnica de la passphrase — Ejemplo visual
+- Slide 6: Gestores de contraseñas — Tabla comparativa
+- Slide 7: Autenticación de dos factores (2FA) — Tipos y niveles
+- Slide 8: Identidad digital y huella activa vs. pasiva
+- Slide 9: Recomendaciones prácticas de privacidad
+- Slide 10: Transición al siguiente bloque
+
+**Expositor 4 — Prevención e Información**
+- Slide 1: Portada — "La seguridad es un hábito"
+- Slide 2: Mantener el software actualizado
+- Slide 3: Redes Wi-Fi inseguras — Ataque MitM
+- Slide 4: Verificar antes de hacer clic — Checklist visual
+- Slide 5: La Regla 3-2-1 de backups
+- Slide 6: Antivirus recomendados
+- Slide 7: Herramientas de protección — Have I Been Pwned, VirusTotal, Privacy Badger
+- Slide 8: ¿Dónde informarse? — Sitios web y plataformas
+- Slide 9: Certificaciones profesionales
+- Slide 10: Transición al siguiente bloque
+
+**Expositor 5 — Ciberseguridad en el Desarrollo de Software**
+- Slide 1: Portada — "Tu código, tu responsabilidad"
+- Slide 2: ¿Qué es el desarrollo seguro? Security by Design
+- Slide 3: OWASP — Introducción a la organización
+- Slide 4: SQL Injection — Código vulnerable vs. seguro
+- Slide 5: XSS — Funcionamiento y prevención
+- Slide 6: Autenticación insegura + Exposición de datos
+- Slide 7: Broken Access Control + Componentes vulnerables
+- Slide 8: Buenas prácticas de desarrollo seguro
+- Slide 9: DevSecOps — SAST, DAST, Snyk
+- Slide 10: Transición al siguiente bloque
+
+**Expositor 6 — Validación y Cierre**
+- Slide 1: Portada — "¿Seguro o Inseguro?"
+- Slide 2: Instrucciones de la actividad
+- Slide 3: Situación 1 — Juan y el correo del banco
+- Slide 4: Situación 2 — María y la contraseña reutilizada
+- Slide 5: Situación 3 — Carlos y la USB
+- Slide 6: Situación 4 — Ana y bcrypt + HTTPS
+- Slide 7: Situación 5 — Pedro y la VPN
+- Slide 8: Resumen de los 5 puntos clave
+- Slide 9: Reflexión final
+- Slide 10: ¡Gracias! + Espacio para preguntas
+
+---
+
+## Anexo D: Objetivos de Aprendizaje de la Capacitación
+
+Tal como se comunicó al inicio de la sesión, al finalizar la capacitación los asistentes debían ser capaces de:
+
+1. **Identificar** las principales amenazas de ciberseguridad a las que están expuestos como usuarios e ingenieros.
+2. **Aplicar** buenas prácticas para proteger sus contraseñas e identidad digital.
+3. **Reconocer** las técnicas más comunes de ingeniería social.
+4. **Saber** dónde informarse y mantenerse actualizados en temas de ciberseguridad.
+5. **Comprender** cómo la seguridad impacta el desarrollo de software desde el primer día.
+
+La actividad de validación al cierre evaluó el cumplimiento de los objetivos 1, 2 y 3, mostrando que el público fue capaz de aplicar correctamente los conceptos aprendidos a situaciones concretas.
+
+---
+
+## Anexo E: Recursos Recomendados Mencionados en la Capacitación
+
+| Recurso | Tipo | URL |
+|---------|------|-----|
+| **OWASP Top 10** | Referencia técnica para desarrolladores | https://owasp.org/www-project-top-ten/ |
+| **Have I Been Pwned** | Verificar si tu correo aparece en brechas | https://haveibeenpwned.com/ |
+| **VirusTotal** | Analizar archivos y URLs sospechosas | https://www.virustotal.com/ |
+| **TryHackMe** | Plataforma gamificada de hacking ético | https://tryhackme.com/ |
+| **Krebs on Security** | Blog especializado en ciberseguridad | https://krebsonsecurity.com/ |
+| **The Hacker News** | Noticias diarias de seguridad | https://thehackernews.com/ |
+| **INCIBE** | Recurso en español (España) | https://www.incibe.es/ |
+| **Bitwarden** | Gestor de contraseñas gratuito y open source | https://bitwarden.com/ |
+| **CISA** | Agencia de ciberseguridad de EE.UU. | https://www.cisa.gov/ |
+| **Hack The Box** | Práctica avanzada de pentesting | https://hackthebox.com/ |
+| **Cybrary** | Cursos gratuitos y de pago | https://cybrary.it/ |
+
+---
+## Anexo G: Glosario de Términos Técnicos
+
+| Término | Definición |
+|---------|-----------|
+| **2FA** | Autenticación de dos factores; método que requiere un segundo elemento de verificación además de la contraseña. |
+| **Baiting** | Técnica de ingeniería social que explota la curiosidad mediante dispositivos infectados abandonados. |
+| **bcrypt** | Algoritmo de hasheo de contraseñas diseñado para ser lento y resistente a ataques de fuerza bruta. |
+| **Broken Access Control** | Vulnerabilidad que permite a usuarios acceder a recursos para los que no tienen autorización. |
+| **CIA (Tríada)** | Confidencialidad, Integridad y Disponibilidad; los tres pilares fundamentales de la ciberseguridad. |
+| **Credential Stuffing** | Ataque que usa credenciales robadas de un servicio para intentar acceder a otros servicios. |
+| **DAST** | Dynamic Application Security Testing; prueba de seguridad que analiza una aplicación en ejecución. |
+| **DevSecOps** | Integración de prácticas de seguridad en el ciclo de desarrollo y operaciones de software. |
+| **Hashing** | Proceso unidireccional que convierte datos en una cadena de longitud fija; no es reversible. |
+| **HTTPS** | Versión segura del protocolo HTTP; cifra la comunicación entre navegador y servidor. |
+| **Ingeniería social** | Técnicas psicológicas para manipular personas y obtener información o acceso no autorizado. |
+| **MitM** | Man in the Middle; ataque donde el atacante intercepta la comunicación entre dos partes. |
+| **OWASP** | Open Web Application Security Project; organización que publica guías y estándares de seguridad web. |
+| **Passphrase** | Contraseña basada en una frase transformada, más memorable y segura que una contraseña corta. |
+| **Phishing** | Técnica de engaño por correo, SMS o llamadas para robar credenciales o instalar malware. |
+| **Pretexting** | Técnica de ingeniería social que usa una historia falsa para obtener información confidencial. |
+| **Ransomware** | Malware que cifra los archivos de la víctima y exige un pago para recuperar el acceso. |
+| **SAST** | Static Application Security Testing; análisis de código fuente en busca de vulnerabilidades. |
+| **Scareware** | Software que muestra falsas alertas de seguridad para provocar que el usuario descargue malware. |
+| **Spear phishing** | Phishing dirigido y personalizado a un individuo u organización específica. |
+| **SQL Injection** | Ataque que inserta código SQL malicioso en entradas de usuario para manipular bases de datos. |
+| **Tailgating** | Acceso físico no autorizado a áreas restringidas siguiendo a alguien con credenciales legítimas. |
+| **VPN** | Red Privada Virtual; crea un túnel cifrado para comunicaciones seguras sobre redes públicas. |
+| **XSS** | Cross-Site Scripting; inyección de código JavaScript malicioso en páginas web visitadas por terceros. |
+
+---
+
+*Documento elaborado colaborativamente como parte del Proyecto 1 — Comunicación Asertiva*
+
+*Ingeniería en Ciencias y Sistemas — FIUSAC — Universidad San Carlos de Guatemala — 2025*
