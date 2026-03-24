@@ -15,14 +15,14 @@
 
 | # | Nombre | Carné |
 |---|--------|-------|
-| Expositor 1 | Diego Enrique Flores Ruiz | 202503934 |
-| Expositor 2 | Luis Mario Monterroso Juarez | 202500066 |
-| Expositor 3 | Cesar Emmanuel Cipriano López | 202506978 |
-| Expositor 4 | Wagner Maximiliano Ley Monroy | 202502811 |
-| Expositor 5 | Daniel Estuardo Chicoj Bolaños | 202500165  |
-| Expositor 6 | Diego René Estrada Juárez | 202505250 |
+| `Expositor 1` | `Diego Enrique Flores Ruiz` | `202503934` |
+| `Expositor 2` | `Luis Mario Monterroso Juarez` | `202500066` |
+| `Expositor 3` | `Cesar Emmanuel Cipriano López` | `202506978` |
+| `Expositor 4` | `Wagner Maximiliano Ley Monroy` | `202502811` |
+| `Expositor 5` | `Daniel Estuardo Chicoj Bolaños` | `202500165`  |
+| `Expositor 6` | `Diego René Estrada Juárez` | `202505250` |
 
-**Auxiliar:** [Kevin Jose Santos Salazar]
+**Auxiliar:** [Kevin Jose Santos Salazar](https://github.com/KVNSLZ/CA_S1_EjemplosSeccionA/blob/main/Semana7/EjemploDocumento.md)
 
 **Fecha de entrega:** [24, 03, 2026]
 
