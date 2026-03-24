@@ -115,7 +115,8 @@ Las amenazas en ciberseguridad pueden clasificarse en cuatro categorías:
 
 La seguridad no es una capa que se agrega al final de un proyecto; es una mentalidad que debe estar presente desde el primer día. Cuanto antes se incorporen estos conceptos a la formación de un ingeniero, menor será la probabilidad de que en su vida profesional cometa errores que comprometan la seguridad de terceros.
 
-## 3.3 Protección de Contraseñas e Identidad Digital — Cesar Cipriano
+---
+## 3.3 Protección de Contraseñas e Identidad Digital  `Cesar Cipriano`
 
 ### ¿Por Qué las Contraseñas Son Tan Importantes?
 
