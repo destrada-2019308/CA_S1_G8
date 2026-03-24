@@ -78,7 +78,68 @@ La seguridad no es una capa que se agrega al final de un proyecto; es una mental
 
 ---
 ---
-## 3.3 Protección de Contraseñas e Identidad Digital — Expositor 3
+## 3.3 Protección de Contraseñas e Identidad Digital — Expositor 3 - Cesar Cipriano
+¿Por Qué las Contraseñas Son Tan Importantes?
+La contraseña es la primera línea de defensa para proteger cualquier cuenta digital. No obstante, el 80% de las brechas de seguridad relacionadas con hackeos están vinculadas a contraseñas débiles, reutilizadas o robadas. Proteger bien una contraseña es, en la mayoría de los casos, la diferencia entre una cuenta segura y una comprometida.
+
+Errores Más Comunes con Contraseñas
+Usar contraseñas cortas o predecibles: 123456, password, qwerty, abc123.
+Usar información personal obvia: nombre, fecha de nacimiento, nombre de mascota.
+Reutilizar la misma contraseña en múltiples cuentas.
+No cambiar contraseñas tras una brecha de seguridad conocida.
+Compartir contraseñas con otras personas.
+Guardar contraseñas en notas de texto plano o en el navegador sin protección adicional.
+¿Qué Hace Segura a una Contraseña?
+Una contraseña segura debe cumplir con los siguientes criterios:
+
+Al menos 12 caracteres de longitud (entre más larga, mejor).
+Combinación de letras mayúsculas y minúsculas.
+Inclusión de números.
+Uso de caracteres especiales: @, #, $, !, %, &.
+Ausencia de palabras completas del diccionario o información personal.
+Tipo	Ejemplo
+Contraseña débil	carlos1998
+Contraseña fuerte	C@rl0s!_Ux#2024$
+Técnica de la passphrase: Tomar una frase memorable y transformarla. Por ejemplo:
+
+"Me gusta el café con leche en las mañanas" → MgEc0nL3ch3_2024!
+
+Esta técnica produce contraseñas largas, difíciles de adivinar pero relativamente fáciles de recordar.
+
+Gestores de Contraseñas
+Con decenas de cuentas activas, memorizar contraseñas únicas y fuertes para cada una es imposible. Los gestores de contraseñas resuelven este problema almacenando todas las contraseñas en una bóveda cifrada, protegida por una única contraseña maestra.
+
+Gestor	Costo	Características destacadas
+Bitwarden	Gratuito	Código abierto, muy confiable, multiplataforma
+1Password	De pago	Excelente para equipos y empresas
+KeePass / KeePassXC	Gratuito	Almacenamiento local, sin dependencia de la nube
+LastPass	Freemium	Muy popular, versión gratuita y de pago
+Autenticación de Dos Factores (2FA)
+El segundo factor de autenticación agrega una capa adicional de seguridad. Incluso si un atacante obtiene la contraseña, no podrá acceder a la cuenta sin el segundo factor.
+
+Tipos de segundo factor, de menor a mayor seguridad:
+
+Código por SMS — Práctico pero menos seguro; los SMS pueden ser interceptados mediante SIM swapping.
+Aplicaciones autenticadoras (Google Authenticator, Authy) — Más seguro; genera códigos temporales localmente.
+Llaves de seguridad físicas (YubiKey) — La opción más segura; requiere un dispositivo físico.
+Correo electrónico de verificación — Útil pero vulnerable si el correo también está comprometido.
+Se recomienda activar 2FA especialmente en: correo electrónico, servicios de nube, redes sociales, plataformas universitarias y cuentas bancarias.
+
+Identidad Digital y Huella Digital
+La identidad digital es el conjunto de información que existe sobre una persona en Internet: fotos, publicaciones, registros, comentarios, historial de compras, cuentas activas y más.
+
+La huella digital es todo lo que se deja al navegar, y tiene dos dimensiones:
+
+Huella activa: Lo que se publica conscientemente en redes sociales, foros o sitios web.
+Huella pasiva: Lo que los sitios registran sin que el usuario lo sepa: dirección IP, historial de navegación, tiempo en el sitio, datos del dispositivo.
+Los atacantes pueden usar información pública en redes sociales para construir ataques de spear phishing altamente personalizados. Además, una huella digital descuidada puede impactar negativamente la reputación profesional.
+
+Recomendaciones prácticas:
+
+Configurar la privacidad de los perfiles en redes sociales.
+No publicar información sensible: dirección, número de teléfono, documentos.
+Usar correos desechables para registros en sitios de poca confianza.
+Buscar el propio nombre en Google periódicamente para conocer qué información es pública.
 ---
 ---
 ## 3.4 Cómo Prevenirse e Informarse en Ciberseguridad
