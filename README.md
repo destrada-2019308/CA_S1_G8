@@ -48,7 +48,7 @@
 6. [Conclusiones](#6-conclusiones)
 7. [Anexos](#7-anexos)
 ---
-# 1. INTRODUCCIÓN
+# 1. INTRODUCCIÓN `Diego Flores` 
 
 Vivimos en una era donde la mayor parte de nuestra vida ocurre en espacios digitales: nos comunicamos, estudiamos, realizamos transacciones bancarias, almacenamos recuerdos y construimos identidades en plataformas conectadas a Internet. Sin embargo, pocas veces nos detenemos a reflexionar sobre los riesgos que esto conlleva y, menos aún, sobre las acciones concretas que podemos tomar para protegernos.
 
@@ -62,7 +62,7 @@ Este informe recoge la investigación realizada, el análisis reflexivo del dese
 
 ---
 
-# 2. OBJETIVOS
+# 2. OBJETIVOS `Diego Flores` 
 
 ## 2.1 Objetivo General
 
@@ -80,9 +80,9 @@ Capacitar a los estudiantes de primer año de Ingeniería en Sistemas de la USAC
 
 ---
 
-# 3. DESCRIPCIÓN GENERAL DEL TEMA Y SUBTEMAS
+# 3. DESCRIPCIÓN GENERAL DEL TEMA Y SUBTEMAS 
 
-## 3.1 ¿Qué es la Ciberseguridad?
+## 3.1 ¿Qué es la Ciberseguridad?    `Diego Flores`
 
 ### Definición
 
