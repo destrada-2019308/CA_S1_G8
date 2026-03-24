@@ -77,6 +77,92 @@ La seguridad no es una capa que se agrega al final de un proyecto; es una mental
 | **Externo** | **OPORTUNIDADES:** La apertura participativa captó la atención del auditorio para toda la sesión, estableciendo el tono positivo que favoreció la receptividad hacia los expositores siguientes. | **AMENAZAS:** El rompehielos dependía de la disposición del público a participar; en grupos más reservados podría no haber funcionado igual. La amplitud del concepto de ciberseguridad en 5 minutos puede generar expectativas que no todos los subtemas alcancen a satisfacer. |
 
 ---
+## 3.4 Cómo Prevenirse e Informarse en Ciberseguridad
+
+### La Ciberseguridad Como Hábito
+
+La ciberseguridad no es un producto que se compra ni una configuración que se activa una vez: es un **hábito que se construye día a día**. Las siguientes prácticas representan el conjunto mínimo que todo usuario informado debería adoptar.
+
+### Hábitos Esenciales de Seguridad Digital
+
+**1. Mantener el software actualizado**
+
+Las actualizaciones no solo agregan funciones nuevas; corrigen **vulnerabilidades conocidas** que los atacantes pueden explotar activamente. Usar software desactualizado equivale a dejar una puerta abierta. Esto aplica al sistema operativo, navegador, aplicaciones, antivirus y cualquier otro programa instalado.
+
+**2. Usar redes Wi-Fi seguras**
+
+Las redes Wi-Fi públicas (cafeterías, aeropuertos, universidades) son zonas de riesgo donde un atacante puede realizar un ataque **Man in the Middle (MitM)**, interceptando la comunicación entre el dispositivo del usuario y los servidores.
+
+Recomendaciones:
+- Evitar acceder a cuentas bancarias o información sensible en redes públicas.
+- Usar una **VPN** (Red Privada Virtual) para cifrar el tráfico.
+- Desactivar la conexión automática a redes Wi-Fi desconocidas.
+
+**3. Verificar antes de hacer clic**
+
+Antes de hacer clic en cualquier enlace, verificar:
+- Que el remitente sea quien dice ser.
+- Que la dirección del enlace corresponda al sitio oficial (pasar el cursor sobre el enlace sin hacer clic).
+- Que el sitio use **HTTPS** (candado en la barra de dirección).
+- Que no haya errores ortográficos en la URL.
+
+**4. Realizar copias de seguridad (Backups) — Regla 3-2-1**
+
+El ransomware cifra todos los archivos del usuario y exige un pago para liberarlos. La única protección real es contar con copias de seguridad actualizadas:
+
+| Componente | Descripción |
+|------------|-------------|
+| **3** copias | Mantener tres copias de los datos |
+| **2** tipos de almacenamiento | Por ejemplo, disco externo + nube |
+| **1** copia fuera del sitio principal | Off-site, para proteger contra desastres físicos |
+
+**5. Instalar y mantener un antivirus actualizado**
+
+Los antivirus modernos detectan no solo virus, sino también malware, spyware y ransomware. Opciones confiables: Windows Defender (incluido en Windows 10/11), Malwarebytes, Kaspersky, Bitdefender.
+
+### Herramientas Útiles para la Protección Personal
+
+| Herramienta | Función | URL |
+|-------------|---------|-----|
+| **Have I Been Pwned** | Verifica si tu correo apareció en brechas de datos conocidas | haveibeenpwned.com |
+| **VirusTotal** | Analiza archivos y URLs sospechosas antes de abrirlos | virustotal.com |
+| **Google Safe Browsing** | Alerta sobre sitios peligrosos (integrado en Chrome) | — |
+| **Privacy Badger / uBlock Origin** | Bloquean rastreadores y publicidad maliciosa | — |
+| **DNS sobre HTTPS (DoH)** | Cifra consultas de dominio para dificultar el espionaje de navegación | — |
+
+### ¿Dónde Informarse Sobre Ciberseguridad?
+
+**Sitios web y blogs confiables:**
+- **Krebs on Security** (krebsonsecurity.com) — Uno de los mejores blogs de ciberseguridad del mundo.
+- **The Hacker News** (thehackernews.com) — Noticias diarias sobre amenazas y vulnerabilidades.
+- **CISA** (cisa.gov) — Agencia de Ciberseguridad e Infraestructura de EE.UU.; publica guías y alertas.
+- **OWASP** (owasp.org) — Fundamental para desarrolladores; publica el Top 10 de vulnerabilidades web.
+- **INCIBE** (incibe.es) — Instituto Nacional de Ciberseguridad de España; excelente recurso en español.
+
+**Plataformas de aprendizaje y práctica:**
+- **TryHackMe** — Plataforma gamificada para aprender hacking ético de forma práctica.
+- **Hack The Box** — Plataforma avanzada de práctica en ciberseguridad.
+- **Cybrary** — Cursos gratuitos y de pago en ciberseguridad.
+- **Coursera / edX** — Cursos certificados de universidades reconocidas.
+
+**Certificaciones relevantes para la carrera profesional:**
+
+| Certificación | Nivel |
+|--------------|-------|
+| CompTIA Security+ | Básico-Intermedio |
+| CEH (Certified Ethical Hacker) | Intermedio |
+| OSCP (Offensive Security Certified Professional) | Avanzado |
+| CISSP (Certified Information Systems Security Professional) | Avanzado |
+
+---
+### Maximiliano Ley  — Cómo Prevenirse e Informarse en Ciberseguridad
+
+| | Aspectos Positivos | Aspectos a Mejorar |
+|-|-------------------|-------------------|
+| **Interno** | **FORTALEZAS:** La presentación de herramientas concretas con sus URLs hizo el contenido inmediatamente utilizable. La sección de certificaciones fue valiosa para estudiantes pensando en su desarrollo profesional. | **DEBILIDADES:** La sección de hábitos de seguridad fue extensa y pudo sintetizarse en una checklist visual de alto impacto. Algunos recursos mencionados (como DNS sobre HTTPS) son más avanzados y pueden generar confusión en primer año. |
+| **Externo** | **OPORTUNIDADES:** Al proporcionar recursos concretos de aprendizaje, este bloque siembra motivación para continuar explorando la ciberseguridad más allá del aula. Varios asistentes pueden seguir estos recursos en su tiempo libre. | **AMENAZAS:** La abundancia de herramientas y plataformas mencionadas puede resultar abrumadora. Sin un criterio de priorización claro, el público puede salir sin saber por cuál empezar. |
+
+---
 ## 3.5 Ciberseguridad en el Desarrollo de Software — Expositor 5 - Daniel Estuardo Chicoj Bolaños
 
 ### La Responsabilidad del Desarrollador
