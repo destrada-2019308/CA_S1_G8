@@ -551,7 +551,7 @@ La experiencia demostró que la comunicación asertiva no es solo una habilidad 
 
 El guión completo fue el documento base utilizado para la preparación y ejecución de la capacitación. Contiene el texto de apoyo de cada bloque, las instrucciones de dinámica del rompehielos, las transiciones entre expositores y la actividad de validación.
 
-> **Archivo adjunto:** `guion_ciberseguridad.pdf`
+> **Archivo adjunto:** [`guion_ciberseguridad.pdf`](https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos)
 
 **Estructura del guión:**
 
