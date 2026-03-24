@@ -582,7 +582,7 @@ El guión completo fue el documento base utilizado para la preparación y ejecuc
 
 ---
 
-## Anexo C: Diapositivas de la Capacitación
+## Anexo C: [Diapositivas de la Capacitación](https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos)
 
 > Las diapositivas utilizadas se adjuntan como archivo digital independiente. A continuación se detalla el contenido de cada set:
 
