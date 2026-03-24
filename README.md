@@ -77,8 +77,9 @@ La seguridad no es una capa que se agrega al final de un proyecto; es una mental
 | **Externo** | **OPORTUNIDADES:** La apertura participativa captó la atención del auditorio para toda la sesión, estableciendo el tono positivo que favoreció la receptividad hacia los expositores siguientes. | **AMENAZAS:** El rompehielos dependía de la disposición del público a participar; en grupos más reservados podría no haber funcionado igual. La amplitud del concepto de ciberseguridad en 5 minutos puede generar expectativas que no todos los subtemas alcancen a satisfacer. |
 
 ---
-3.3 Protección de Contraseñas e Identidad Digital — Expositor 3
-
+---
+## 3.3 Protección de Contraseñas e Identidad Digital — Expositor 3
+---
 ---
 ## 3.4 Cómo Prevenirse e Informarse en Ciberseguridad
 
