@@ -1,4 +1,4 @@
-<img width="1466" height="623" alt="image" src="https://github.com/user-attachments/assets/6bde347a-f4b8-4414-a999-06c741c22449" /># INFORME GRUPAL: CIBERSEGURIDAD Y PROTECCIÓN PERSONAL EN INTERNET
+# INFORME GRUPAL: CIBERSEGURIDAD Y PROTECCIÓN PERSONAL EN INTERNET
 
 ---
 
