@@ -49,7 +49,7 @@
 7. [Enlaces del Proyecto](#7-enlaces-del-proyecto)
 8. [Anexos](#8-anexos)
 ---
-# 1. INTRODUCCIÓN `Diego Flores` 
+# 1. INTRODUCCIÓN   `Diego Flores` 
 
 Vivimos en una era donde la mayor parte de nuestra vida ocurre en espacios digitales: nos comunicamos, estudiamos, realizamos transacciones bancarias, almacenamos recuerdos y construimos identidades en plataformas conectadas a Internet. Sin embargo, pocas veces nos detenemos a reflexionar sobre los riesgos que esto conlleva y, menos aún, sobre las acciones concretas que podemos tomar para protegernos.
 
@@ -63,7 +63,7 @@ Este informe recoge la investigación realizada, el análisis reflexivo del dese
 
 ---
 
-# 2. OBJETIVOS `Diego Flores` 
+# 2. OBJETIVOS   `Diego Flores` 
 
 ## 2.1 Objetivo General
 
@@ -83,7 +83,7 @@ Capacitar a los estudiantes de primer año de Ingeniería en Sistemas de la USAC
 
 # 3. DESCRIPCIÓN GENERAL DEL TEMA Y SUBTEMAS 
 
-## 3.1 ¿Qué es la Ciberseguridad?    `Diego Flores`
+## 3.1 ¿Qué es la Ciberseguridad?   `Diego Flores`
 
 ### Definición
 
@@ -117,7 +117,7 @@ Las amenazas en ciberseguridad pueden clasificarse en cuatro categorías:
 La seguridad no es una capa que se agrega al final de un proyecto; es una mentalidad que debe estar presente desde el primer día. Cuanto antes se incorporen estos conceptos a la formación de un ingeniero, menor será la probabilidad de que en su vida profesional cometa errores que comprometan la seguridad de terceros.
 
 ---
-## 3.3 Protección de Contraseñas e Identidad Digital  `Cesar Cipriano`
+## 3.3 Protección de Contraseñas e Identidad Digital   `Cesar Cipriano`
 
 ### ¿Por Qué las Contraseñas Son Tan Importantes?
 
@@ -272,7 +272,7 @@ Los antivirus modernos detectan no solo virus, sino también malware, spyware y 
 | CISSP (Certified Information Systems Security Professional) | Avanzado |
 
 
-## 3.5 Ciberseguridad en el Desarrollo de Software — Expositor 5 - Daniel Estuardo Chicoj Bolaños
+## 3.5 Ciberseguridad en el Desarrollo de Software   ` Daniel Estuardo Chicoj Bolaños `
 
 ### La Responsabilidad del Desarrollador
 
@@ -345,7 +345,7 @@ El concepto de **DevSecOps** integra la seguridad dentro del flujo de trabajo de
 
 La seguridad en el software no es una característica que se añade al final: es una mentalidad que se cultiva desde el primer proyecto.
 ---
-## 3.6 Actividad de Validación y Cierre — `Diego Estrada`
+## 3.6 Actividad de Validación y Cierre   `Diego Estrada`
 
 ### Actividad: "¿Seguro o Inseguro?"
 
@@ -376,7 +376,7 @@ Para cerrar la capacitación, se realizó una actividad donde el público debía
 
 **Respuesta: SEGURA.** Usar una VPN en redes públicas cifra el tráfico y protege la comunicación, mitigando el riesgo de ataques MitM.
 
-### Resumen y Reflexión Final
+### Resumen y Reflexión Final  `Luis Monterroso`
 
 Al cierre de la capacitación se sintetizaron los mensajes clave de toda la sesión:
 
@@ -752,4 +752,4 @@ La actividad de validación al cierre evaluó el cumplimiento de los objetivos 1
 
 *Documento elaborado colaborativamente como parte del Proyecto 1 — Comunicación Asertiva*
 
-*Ingeniería en Ciencias y Sistemas — FIUSAC — Universidad San Carlos de Guatemala — 2025*
+*Ingeniería en Ciencias y Sistemas — FIUSAC — Universidad San Carlos de Guatemala — Marzo 2026*
