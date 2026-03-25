@@ -548,27 +548,21 @@ La experiencia demostró que la comunicación asertiva no es solo una habilidad 
 ---
 # 7. Enlaces del Proyecto
 
+<div align="center">
+
+| ### Video de planificación | ### Video de ejecución |
+| :---: | :---: |
+| <a href="https://www.youtube.com/watch?v=8uBJ_tRof-0"><img src="https://img.youtube.com/vi/8uBJ_tRof-0/maxresdefault.jpg" width="400"></a> | <a href="https://www.youtube.com/watch?v=uR_y4BJidPQ"><img src="https://img.youtube.com/vi/uR_y4BJidPQ/maxresdefault.jpg" width="400"></a> |
+</div>
+
 ---
+<div align="center">
+  <a href="https://github.com/destrada-2019308/CA_S1_G8.git">
+    <img src="https://opengraph.githubassets.com/1/destrada-2019308/CA_S1_G8" alt="Banner del Repositorio" width="600">
+  </a>
+  <p><i>Repositorio de GitHub</i></p>
+</div>
 
-### Repositorio GitHub
-```
-https://github.com/destrada-2019308/CA_S1_G8.git
-```
-
----
-
-### Video de planificación
-<a href="https://www.youtube.com/watch?v=8uBJ_tRof-0">
-  <img src="https://img.youtube.com/vi/8uBJ_tRof-0/maxresdefault.jpg" alt="Texto alternativo del video" width="400">
-</a>
-
-### Video de ejecución
-<a href="https://www.youtube.com/watch?v=uR_y4BJidPQ">
-  <img src="https://img.youtube.com/vi/uR_y4BJidPQ/maxresdefault.jpg" alt="Texto alternativo del video" width="400">
-</a>
-
-
-```
 ### Trifoliar
 ```
 https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos
