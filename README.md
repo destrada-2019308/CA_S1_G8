@@ -554,30 +554,31 @@ La experiencia demostró que la comunicación asertiva no es solo una habilidad 
 | :---: | :---: |
 | <a href="https://www.youtube.com/watch?v=8uBJ_tRof-0"><img src="https://img.youtube.com/vi/8uBJ_tRof-0/maxresdefault.jpg" width="400"></a> | <a href="https://www.youtube.com/watch?v=uR_y4BJidPQ"><img src="https://img.youtube.com/vi/uR_y4BJidPQ/maxresdefault.jpg" width="400"></a> |
 </div>
-
----
-<div align="center">
-  <a href="https://github.com/destrada-2019308/CA_S1_G8.git">
-    <img src="https://opengraph.githubassets.com/1/destrada-2019308/CA_S1_G8" alt="Banner del Repositorio" width="300">
-  </a>
-  <p><i>Repositorio de GitHub</i></p>
-</div>
-
 <div align="center">
   <a href="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/Trifoliar_Ciberseguridad.pdf">
     <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/trifoliarPortada.png" alt="Banner del trifoliar" width="300">
   </a>
   <p><i>Trifoliar</i></p>
 </div>
----
+<div align="center">
+  <a href="https://github.com/destrada-2019308/CA_S1_G8.git">
+    <img src="https://opengraph.githubassets.com/1/destrada-2019308/CA_S1_G8" alt="Banner del Repositorio" width="600">
+  </a>
+  <p><i>Repositorio de GitHub</i></p>
+</div>
 
 # 8. ANEXOS
 
 ## Anexo A: Guión Completo de la Capacitación
 
 El guión completo fue el documento base utilizado para la preparación y ejecución de la capacitación. Contiene el texto de apoyo de cada bloque, las instrucciones de dinámica del rompehielos, las transiciones entre expositores y la actividad de validación.
+<div align="center">
+  <a href="https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos/guion_ciberseguridad.pdf">
+    <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/portadaGuion.png" alt="Banner del Repositorio" width="600">
+  </a>
+  <p><i>Guión de la capacitación</i></p>
+</div>
 
-> **Archivo adjunto:** [`guion_ciberseguridad.pdf`](https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos)
 
 
 **Estructura del guión:**
@@ -609,7 +610,13 @@ El guión completo fue el documento base utilizado para la preparación y ejecuc
 
 ---
 
-## Anexo C: [Diapositivas de la Capacitación](https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos)
+## Anexo C: Presentación utilizada durante la capacitación
+<div align="center">
+  <a href="https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos/Capacitación Ciberseguridad FIUSAC Presentacion.pdf">
+    <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/portadaPresentacion.png" alt="Banner del Repositorio" width="600">
+  </a>
+  <p><i>Presentación de la capacitación</i></p>
+</div>
 
 > Las diapositivas utilizadas se adjuntan como archivo digital independiente. A continuación se detalla el contenido de cada set:
 
