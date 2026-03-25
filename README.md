@@ -549,12 +549,26 @@ La experiencia demostró que la comunicación asertiva no es solo una habilidad 
 ---
 # 7. Enlaces del Proyecto
 
-| Recurso | Descripción | Enlace |
-|---------|-------------|--------|
-| **Repositorio GitHub** | Código fuente, guión, diapositivas y anexos del proyecto | [Pendiente de agregar](https://github.com/destrada-2019308/CA_S1_G8.git) |
-| **Video de Planificación** | Grabación de la reunión de planificación y distribución de temas del equipo | [Pendiente de agregar](https://youtu.be/8uBJ_tRof-0) |
-| **Video de Ejecución** | Grabación completa de la capacitación presentada ante el público | [Pendiente de agregar](https://youtu.be/uR_y4BJidPQ) |
+---
 
+### Repositorio GitHub
+```
+https://github.com/destrada-2019308/CA_S1_G8.git
+```
+
+---
+
+### Video de planificación
+```
+https://youtu.be/8uBJ_tRof-0
+```
+
+---
+
+### Video de ejecución
+```
+https://youtu.be/uR_y4BJidPQ
+```
 ---
 
 # 8. ANEXOS
