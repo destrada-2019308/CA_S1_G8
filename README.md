@@ -116,6 +116,70 @@ Las amenazas en ciberseguridad pueden clasificarse en cuatro categorías:
 
 La seguridad no es una capa que se agrega al final de un proyecto; es una mentalidad que debe estar presente desde el primer día. Cuanto antes se incorporen estos conceptos a la formación de un ingeniero, menor será la probabilidad de que en su vida profesional cometa errores que comprometan la seguridad de terceros.
 
+--- 
+## 3.2 Ingeniería Social y Amenazas Comunes `Luis Monterroso`  
+### ¿Qué es la Ingeniería Social?
+
+La **ingeniería social** no ataca computadoras: ataca personas. Es el conjunto de técnicas psicológicas que utilizan los atacantes para manipular a individuos y lograr que revelen información confidencial, realicen acciones perjudiciales o concedan acceso a sistemas protegidos.
+
+La premisa es contundente: es más fácil engañar a una persona que romper un sistema bien protegido técnicamente. Kevin Mitnick, uno de los hackers más reconocidos de la historia, sostenía que el eslabón más débil en cualquier sistema de seguridad es el ser humano. Los ataques de ingeniería social confirman esta afirmación año tras año.
+
+### Las Amenazas Más Comunes
+
+**1. Phishing**
+
+El phishing es el ataque de ingeniería social más utilizado en el mundo. Consiste en enviar correos electrónicos, mensajes de texto o mensajes en redes sociales que simulan provenir de una fuente confiable con el objetivo de que la víctima haga clic en un enlace falso, ingrese sus credenciales en una página fraudulenta o descargue un archivo malicioso.
+
+*Ejemplo real:* El usuario recibe un correo que dice "Tu cuenta de Gmail será desactivada en 24 horas. Haz clic aquí para verificar tu identidad." El enlace dirige a una página visualmente idéntica a Google, pero bajo el control del atacante. Al ingresar usuario y contraseña, los datos quedan comprometidos.
+
+**Variantes del phishing:**
+
+| Variante | Descripción |
+|----------|-------------|
+| **Spear phishing** | Dirigido a una persona específica, usando información personal para hacerlo más creíble. |
+| **Smishing** | Phishing mediante mensajes de texto (SMS). |
+| **Vishing** | Phishing por llamada telefónica; el atacante se hace pasar por soporte técnico o entidad oficial. |
+| **Whaling** | Dirigido a ejecutivos o personas de alto perfil dentro de una organización. |
+
+**2. Pretexting**
+
+El atacante construye una historia falsa (pretexto) para obtener información. Ejemplo: llamar a una empresa haciéndose pasar por un técnico de soporte que necesita urgentemente la contraseña de un sistema para solucionar un problema crítico.
+
+**3. Baiting**
+
+Consiste en dejar un dispositivo infectado —como una memoria USB— en un lugar visible, esperando que alguien lo conecte a su computadora por curiosidad. Al conectarse, se instala malware de forma automática.
+
+**4. Quid Pro Quo**
+
+El atacante ofrece algo a cambio de información o acceso. Se hace pasar por soporte técnico y ofrece resolver un problema a cambio de que la víctima le conceda acceso remoto a su equipo.
+
+**5. Tailgating / Piggybacking**
+
+Acceso físico no autorizado a áreas restringidas siguiendo a alguien con credenciales legítimas. Explota la cortesía natural de las personas.
+
+**6. Scareware**
+
+El atacante muestra mensajes de alerta falsos ("¡Tu computadora tiene 10 virus!") para provocar pánico y que la víctima descargue un programa que en realidad es el malware.
+
+### ¿Por Qué Funciona la Ingeniería Social?
+
+Porque explota características humanas naturales:
+
+- **Urgencia:** "Tienes 24 horas o perderás tu cuenta."
+- **Autoridad:** "Soy del departamento de TI, necesito tu contraseña."
+- **Reciprocidad:** "Te ayudo con esto, solo dime tus credenciales."
+- **Curiosidad:** Una USB abandonada en el pasillo.
+- **Miedo:** "Tu equipo está infectado, actúa ahora o perderás todo."
+
+### Cómo Identificar un Ataque de Ingeniería Social
+
+- Mensajes que generan urgencia o miedo exagerado.
+- Solicitudes inusuales de información confidencial.
+- Remitentes con direcciones ligeramente alteradas (ej. `soporte@g00gle.com`).
+- Enlace que no coincide con la dirección real al pasar el cursor sobre él.
+- Errores ortográficos o de redacción notables en el mensaje.
+- Ofertas o situaciones demasiado buenas —o demasiado alarmantes— para ser verdad.
+
 ---
 ## 3.3 Protección de Contraseñas e Identidad Digital   `Cesar Cipriano`
 
@@ -194,7 +258,7 @@ Los atacantes pueden usar información pública en redes sociales para construir
 - Buscar el propio nombre en Google periódicamente para conocer qué información es pública.
   
 
-## 3.4 Cómo Prevenirse e Informarse en Ciberseguridad
+## 3.4 Cómo Prevenirse e Informarse en Ciberseguridad   `Maximiliano Ley`
 
 ### La Ciberseguridad Como Hábito
 
@@ -272,7 +336,7 @@ Los antivirus modernos detectan no solo virus, sino también malware, spyware y 
 | CISSP (Certified Information Systems Security Professional) | Avanzado |
 
 
-## 3.5 Ciberseguridad en el Desarrollo de Software   ` Daniel Estuardo Chicoj Bolaños `
+## 3.5 Ciberseguridad en el Desarrollo de Software   `Daniel Chicoj`
 
 ### La Responsabilidad del Desarrollador
 
