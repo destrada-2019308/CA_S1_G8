@@ -46,7 +46,8 @@
    - 4.2 FODA Grupal
 5. [Comunicación Asertiva](#5-comunicación-asertiva)
 6. [Conclusiones](#6-conclusiones)
-7. [Anexos](#7-anexos)
+7. [Enlaces del Proyecto](#7.-enlace-proyecto)
+8. [Anexos](#8-anexos)
 ---
 # 1. INTRODUCCIÓN `Diego Flores` 
 
@@ -546,7 +547,7 @@ La experiencia demostró que la comunicación asertiva no es solo una habilidad 
 
 ---
 ---
-## 🔗 Enlaces del Proyecto
+# 7. Enlaces del Proyecto
 
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
@@ -556,7 +557,7 @@ La experiencia demostró que la comunicación asertiva no es solo una habilidad 
 
 ---
 
-# 7. ANEXOS
+# 8. ANEXOS
 
 ## Anexo A: Guión Completo de la Capacitación
 
