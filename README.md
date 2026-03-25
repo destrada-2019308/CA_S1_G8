@@ -612,7 +612,7 @@ El guión completo fue el documento base utilizado para la preparación y ejecuc
 
 ## Anexo C: Presentación utilizada durante la capacitación
 <div align="center">
-  <a href="https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos/Capacitación Ciberseguridad FIUSAC Presentacion.pdf">
+  <a href="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/Capacitación%20Ciberseguridad%20FIUSAC%20Presentacion.pdf">
     <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/portadaPresentacion.png" alt="Banner del Repositorio" width="600">
   </a>
   <p><i>Presentación de la capacitación</i></p>
