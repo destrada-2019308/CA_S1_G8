@@ -556,13 +556,13 @@ La experiencia demostró que la comunicación asertiva no es solo una habilidad 
 </div>
 <div align="center">
   <a href="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/Trifoliar_Ciberseguridad.pdf">
-    <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/trifoliarPortada.png" alt="Banner del trifoliar" width="300">
+    <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/trifoliarPortada.png" alt="Banner del trifoliar" width="400">
   </a>
   <p><i>Trifoliar</i></p>
 </div>
 <div align="center">
   <a href="https://github.com/destrada-2019308/CA_S1_G8.git">
-    <img src="https://opengraph.githubassets.com/1/destrada-2019308/CA_S1_G8" alt="Banner del Repositorio" width="600">
+    <img src="https://opengraph.githubassets.com/1/destrada-2019308/CA_S1_G8" alt="Banner del Repositorio" width="400">
   </a>
   <p><i>Repositorio de GitHub</i></p>
 </div>
@@ -573,8 +573,8 @@ La experiencia demostró que la comunicación asertiva no es solo una habilidad 
 
 El guión completo fue el documento base utilizado para la preparación y ejecución de la capacitación. Contiene el texto de apoyo de cada bloque, las instrucciones de dinámica del rompehielos, las transiciones entre expositores y la actividad de validación.
 <div align="center">
-  <a href="https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos/guion_ciberseguridad.pdf">
-    <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/portadaGuion.png" alt="Banner del Repositorio" width="600">
+  <a href="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/guion%20ciberseguridad.pdf">
+    <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/portadaGuion.png" alt="Banner del Repositorio" width="400">
   </a>
   <p><i>Guión de la capacitación</i></p>
 </div>
@@ -613,7 +613,7 @@ El guión completo fue el documento base utilizado para la preparación y ejecuc
 ## Anexo C: Presentación utilizada durante la capacitación
 <div align="center">
   <a href="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/Capacitación%20Ciberseguridad%20FIUSAC%20Presentacion.pdf">
-    <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/portadaPresentacion.png" alt="Banner del Repositorio" width="600">
+    <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/portadaPresentacion.png" alt="Banner del Repositorio" width="400">
   </a>
   <p><i>Presentación de la capacitación</i></p>
 </div>
