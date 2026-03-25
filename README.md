@@ -545,6 +545,16 @@ La experiencia demostró que la comunicación asertiva no es solo una habilidad 
 **8. El trabajo colaborativo exige y fortalece la comunicación asertiva.** Las diferencias de criterio, los ajustes de tiempo y las revisiones de materiales fueron oportunidades reales para practicar la escucha activa, la retroalimentación constructiva y la expresión directa y respetuosa. El resultado final fue un producto mejor que cualquiera que cada integrante hubiera producido individualmente.
 
 ---
+---
+## 🔗 Enlaces del Proyecto
+
+| Recurso | Descripción | Enlace |
+|---------|-------------|--------|
+| **Repositorio GitHub** | Código fuente, guión, diapositivas y anexos del proyecto | [Pendiente de agregar](https://github.com/destrada-2019308/CA_S1_G8.git) |
+| **Video de Planificación** | Grabación de la reunión de planificación y distribución de temas del equipo | [Pendiente de agregar](https://youtu.be/8uBJ_tRof-0) |
+| **Video de Ejecución** | Grabación completa de la capacitación presentada ante el público | [Pendiente de agregar](https://youtu.be/uR_y4BJidPQ) |
+
+---
 
 # 7. ANEXOS
 
