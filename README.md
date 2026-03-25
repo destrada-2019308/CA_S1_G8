@@ -1,4 +1,4 @@
-# INFORME GRUPAL: CIBERSEGURIDAD Y PROTECCIÓN PERSONAL EN INTERNET
+<img width="1466" height="623" alt="image" src="https://github.com/user-attachments/assets/6bde347a-f4b8-4414-a999-06c741c22449" /># INFORME GRUPAL: CIBERSEGURIDAD Y PROTECCIÓN PERSONAL EN INTERNET
 
 ---
 
@@ -46,7 +46,7 @@
    - 4.2 FODA Grupal
 5. [Comunicación Asertiva](#5-comunicación-asertiva)
 6. [Conclusiones](#6-conclusiones)
-7. [Enlaces del Proyecto](#7.-enlace-proyecto)
+7. [Enlaces del Proyecto](#7-enlaces-del-proyecto)
 8. [Anexos](#8-anexos)
 ---
 # 1. INTRODUCCIÓN `Diego Flores` 
