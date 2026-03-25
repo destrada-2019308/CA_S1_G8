@@ -345,7 +345,7 @@ El concepto de **DevSecOps** integra la seguridad dentro del flujo de trabajo de
 
 La seguridad en el software no es una característica que se añade al final: es una mentalidad que se cultiva desde el primer proyecto.
 ---
-## 3.6 Actividad de Validación y Cierre — Expositor 6
+## 3.6 Actividad de Validación y Cierre — `Diego Estrada`
 
 ### Actividad: "¿Seguro o Inseguro?"
 
@@ -439,7 +439,7 @@ Al cierre de la capacitación se sintetizaron los mensajes clave de toda la sesi
 
 ---
 
-### Expositor 6 — Actividad de Validación y Cierre
+### Actividad de Validación y Cierre `Diego Estrada`
 
 | | Aspectos Positivos | Aspectos a Mejorar |
 |-|-------------------|-------------------|
@@ -568,6 +568,11 @@ https://youtu.be/8uBJ_tRof-0
 ```
 https://youtu.be/uR_y4BJidPQ
 ```
+### Trifoliar
+```
+https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos
+```
+
 ---
 
 # 8. ANEXOS
@@ -577,6 +582,7 @@ https://youtu.be/uR_y4BJidPQ
 El guión completo fue el documento base utilizado para la preparación y ejecución de la capacitación. Contiene el texto de apoyo de cada bloque, las instrucciones de dinámica del rompehielos, las transiciones entre expositores y la actividad de validación.
 
 > **Archivo adjunto:** [`guion_ciberseguridad.pdf`](https://github.com/destrada-2019308/CA_S1_G8/tree/main/Anexos)
+
 
 **Estructura del guión:**
 
