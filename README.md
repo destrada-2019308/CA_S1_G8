@@ -565,6 +565,9 @@ https://youtu.be/8uBJ_tRof-0
 ---
 
 ### Video de ejecución
+<a href="https://www.youtube.com/watch?v=uR_y4BJidPQ">
+  <img src="https://img.youtube.com/vi/uR_y4BJidPQ/maxresdefault.jpg" alt="Texto alternativo del video" width="600">
+</a>
 ```
 https://youtu.be/uR_y4BJidPQ
 ```
