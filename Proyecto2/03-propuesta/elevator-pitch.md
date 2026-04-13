@@ -8,7 +8,7 @@
 (https://www.youtube.com/watch?v=tuzy2Lt6cCs)
 
 ## Integrante 3 — Vidriería: No sabe cuánto gana o pierde
-[Video aquí — pendiente de subir a YouTube]
+[![Elevator Pitch](https://img.youtube.com/vi/XxLtH8NP4fk/hqdefault.jpg)](https://www.youtube.com/watch?v=XxLtH8NP4fk)
 
 ## Integrante 4 — Herrería: Control de Materiales
 [![Elevator Pitch](https://img.youtube.com/vi/yd5IAdB_PGM/hqdefault.jpg)](https://www.youtube.com/watch?v=yd5IAdB_PGM)
