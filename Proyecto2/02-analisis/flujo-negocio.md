@@ -33,3 +33,20 @@ flowchart TD
     I --> J[Avisa al cliente]
     J --> K[Cliente recoge y paga]
     K --> L[Fin del proceso]
+
+---
+## Flujo de negocios
+
+A continuación se presentan las dos etapas principales del proceso:
+
+### Diagrama 1 — Captación de clientes
+
+![Captación de clientes](../Anexos/Img1.png)
+*Figura 1. Proceso de captación desde el primer contacto hasta la conversión.*
+
+---
+
+### Diagrama 2 — Entrega y posventa
+
+![Entrega y posventa](../Anexos/img2.png)
+*Figura 2. Etapas de entrega del producto o servicio y seguimiento posventa.*
