@@ -4,7 +4,7 @@
 [![Elevator Pitch](https://img.youtube.com/vi/qeHYjoOVsb0/hqdefault.jpg)](https://www.youtube.com/watch?v=qeHYjoOVsb0)
 
 ## Integrante 2 — Vidriería: Pedidos Desorganizados
-[Video aquí — pendiente de subir a YouTube]
+[![Elevator Pitch](https://img.youtube.com/vi/tuzy2Lt6cCs/hqdefault.jpg)](https://www.youtube.com/watch?v=tuzy2Lt6cCs)
 
 ## Integrante 3 — Vidriería: No sabe cuánto gana o pierde
 [Video aquí — pendiente de subir a YouTube]
