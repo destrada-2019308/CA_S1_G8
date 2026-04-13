@@ -9,6 +9,14 @@
 al dueño de la vidriería [Vidreria La Bendición], 
 ubicada en [Zona 1, Ciudad de Guatemala]. Entrevistadores: [Cesar Emmanuel Cipriano López y Diego Enrique Flores Ruíz].
 
+| Imagen 1 | Imagen 2 | Imagen 3 |
+|----------|----------|----------|
+| ![img1](../../Anexos/images/img1.png) | ![img2](../../Anexos/images/img2.jpg) | ![img3](../../Anexos/images/img3.jpeg) |
+
+| Imagen 4 | Imagen 5 | Imagen 6 |
+|----------|----------|----------|
+| ![img4](../../Anexos/images/img4.gif) | ![img5](../../Anexos/images/img5.webp) | ![img6](../../Anexos/images/img6.png) |
+
 ---
 
 ## Negocio 2 — Taller de Herrería
