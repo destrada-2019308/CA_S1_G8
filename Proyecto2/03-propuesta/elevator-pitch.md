@@ -12,7 +12,7 @@
 ## Integrante 4 — Herrería: Control de Materiales
 <video src="[https://youtu.be/yd5IAdB_PGM]" controls preload></video>
 ## Integrante 5 — Herrería: Entregas Tardías
-[![Video Pitch](https://drive.google.com/uc?export=view&id=TU_ID_DE_IMAGEN_AQUI)](https://youtu.be/wrhZZRwhlsA)
+[![Video Pitch](https://img.youtube.com/vi/wrhZZRwhlsA/0.jpg)](https://youtu.be/wrhZZRwhlsA)
 [Video aquí — pendiente de subir a YouTube]
 
 ## Integrante 6 — Herrería: Registro de Pedidos
