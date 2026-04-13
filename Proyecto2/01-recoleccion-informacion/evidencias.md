@@ -11,7 +11,7 @@ ubicada en [Zona 1, Ciudad de Guatemala]. Entrevistadores: [Cesar Emmanuel Cipri
 
 | Imagen 1 | Imagen 2 | Imagen 3 |
 |----------|----------|----------|
-| <img src="../../Anexos/images/1.jpeg" alt="img1" width="120"> | <img src="../../Anexos/images/2.jpeg" alt="img2" width="120"> | <img src="../../Anexos/images/3.jpeg" alt="img3" width="120"> |
+| <img src="../../Anexos/images/1.jpeg" alt="img1" width="350"> | <img src="../../Anexos/images/2.jpeg" alt="img2" width="350"> | <img src="../../Anexos/images/3.jpeg" alt="img3" width="350"> |
 
 | Imagen 4 | Imagen 5 | Imagen 6 |
 |----------|----------|----------|
@@ -29,4 +29,4 @@ ubicada en [Departamento de Sacatepéquez, Sumpango]. Entrevistadores: [Wagner M
 
 | Imagen 1 | Imagen 2 | Imagen 3 | Imagen 4 |
 |----------|----------|----------|----------|
-| <img src="../../Anexos/images/Herreria1.jpeg" alt="img1" width="120"> | <img src="../../Anexos/images/Herreria2.jpeg" alt="img2" width="120"> | <img src="../../Anexos/images/Herreria3.jpeg" alt="img3" width="120"> | <img src="../../Anexos/images/Herreria4.jpeg" alt="img4" width="120"> |
+| <img src="../../Anexos/images/Herreria1.jpeg" alt="img1" width="350"> | <img src="../../Anexos/images/Herreria2.jpeg" alt="img2" width="350"> | <img src="../../Anexos/images/Herreria3.jpeg" alt="img3" width="350"> | <img src="../../Anexos/images/Herreria4.jpeg" alt="img4" width="350"> |
