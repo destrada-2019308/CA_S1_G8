@@ -27,3 +27,8 @@ ubicada en [Zona 1, Ciudad de Guatemala]. Entrevistadores: [Cesar Emmanuel Cipri
 *Descripción:* Audio de la entrevista realizada el [12/04/2026] 
 al dueño del taller de herrería [Herreria El Rey], 
 ubicada en [Departamento de Sacatepéquez, Sumpango]. Entrevistadores: [Wagner Maximiliano Ley Monroy, Daniel Estuardo Chicoj Bolaños y Diego Rene Estrada Júarez].
+
+| Imagen 1 | Imagen 2 | Imagen 3 | Imagen 4 |
+|----------|----------|----------|----------|
+| ![img1](../../Anexos/images/Herreria1.png) | ![img2](../../Anexos/images/Herreria2.jpg) | ![img3](../../Anexos/images/Herreria3.jpeg) | ![img3](../../Anexos/images/Herreria4.jpeg) |
+
