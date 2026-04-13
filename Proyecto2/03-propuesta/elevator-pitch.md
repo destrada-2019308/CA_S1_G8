@@ -10,10 +10,7 @@
 [Video aquí — pendiente de subir a YouTube]
 
 ## Integrante 4 — Herrería: Control de Materiales
-![](./results/old_episodes/simulation.mp4)
 <video src="[https://youtu.be/yd5IAdB_PGM]" controls preload></video>
-[![Video Pitch](https://drive.google.com/uc?export=view&id=19aPdD6DuQh6KubSa25KF3xLW_8a7DZrr)]
-(https://www.youtube.com/watch?v=tuzy2Lt6cCs)
 ## Integrante 5 — Herrería: Entregas Tardías
 [Video aquí — pendiente de subir a YouTube]
 
