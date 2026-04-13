@@ -10,7 +10,7 @@
 [Video aquí — pendiente de subir a YouTube]
 
 ## Integrante 4 — Herrería: Control de Materiales
-<video src="[https://youtu.be/yd5IAdB_PGM]" controls preload></video>
+[![Elevator Pitch](https://img.youtube.com/vi/yd5IAdB_PGM/hqdefault.jpg)](https://www.youtube.com/watch?v=yd5IAdB_PGM)
 ## Integrante 5 — Herrería: Entregas Tardías
 [![Video Pitch](https://img.youtube.com/vi/wrhZZRwhlsA/0.jpg)](https://youtu.be/wrhZZRwhlsA)
 
