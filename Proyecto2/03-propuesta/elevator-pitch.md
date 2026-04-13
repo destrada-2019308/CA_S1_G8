@@ -13,7 +13,7 @@
 <video src="[https://youtu.be/yd5IAdB_PGM]" controls preload></video>
 ## Integrante 5 — Herrería: Entregas Tardías
 [![Video Pitch](https://img.youtube.com/vi/wrhZZRwhlsA/0.jpg)](https://youtu.be/wrhZZRwhlsA)
-[Video aquí — pendiente de subir a YouTube]
+
 
 ## Integrante 6 — Herrería: Registro de Pedidos
 [Video aquí — pendiente de subir a YouTube]
