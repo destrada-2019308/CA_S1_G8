@@ -11,12 +11,11 @@ ubicada en [Zona 1, Ciudad de Guatemala]. Entrevistadores: [Cesar Emmanuel Cipri
 
 | Imagen 1 | Imagen 2 | Imagen 3 |
 |----------|----------|----------|
-| ![img1](../../Anexos/images/1.jpeg) | ![img2](../../Anexos/images/2.jpeg) | ![img3](../../Anexos/images/3.jpeg) |
+| <img src="../../Anexos/images/1.jpeg" alt="img1" width="120"> | <img src="../../Anexos/images/2.jpeg" alt="img2" width="120"> | <img src="../../Anexos/images/3.jpeg" alt="img3" width="120"> |
 
 | Imagen 4 | Imagen 5 | Imagen 6 |
 |----------|----------|----------|
-| ![img4](../../Anexos/images/4.jpeg) | ![img5](../../Anexos/images/5.jpeg) | ![img6](../../Anexos/images/6.jpeg) |
-
+| <img src="../../Anexos/images/4.jpeg" alt="img4" width="120"> | <img src="../../Anexos/images/5.jpeg" alt="img5" width="120"> | <img src="../../Anexos/images/6.jpeg" alt="img6" width="120"> |
 ---
 
 ## Negocio 2 — Taller de Herrería
@@ -30,5 +29,4 @@ ubicada en [Departamento de Sacatepéquez, Sumpango]. Entrevistadores: [Wagner M
 
 | Imagen 1 | Imagen 2 | Imagen 3 | Imagen 4 |
 |----------|----------|----------|----------|
-| ![img1](../../Anexos/images/Herreria1.jpeg) | ![img2](../../Anexos/images/Herreria2.jpeg) | ![img3](../../Anexos/images/Herreria3.jpeg) | ![img3](../../Anexos/images/Herreria4.jpeg) |
-
+| <img src="../../Anexos/images/Herreria1.jpeg" alt="img1" width="120"> | <img src="../../Anexos/images/Herreria2.jpeg" alt="img2" width="120"> | <img src="../../Anexos/images/Herreria3.jpeg" alt="img3" width="120"> | <img src="../../Anexos/images/Herreria4.jpeg" alt="img4" width="120"> |
