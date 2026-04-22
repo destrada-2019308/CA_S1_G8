@@ -18,9 +18,9 @@ El objetivo de la junta es analizar los hallazgos obtenidos durante las entrevis
 
 ## Resumen de la junta
 
-**Duración estimada:** 45 - 50 minutos
+**Duración estimada:** 40 - 45 minutos
 
-**Fecha:** 15 de noviembre
+**Fecha:** 19 de abril
 
 ---
 
