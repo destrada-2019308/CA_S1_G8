@@ -11,7 +11,8 @@ Como solución, el equipo propone el desarrollo de una **aplicación web respons
 ## Diagrama 1 — Arquitectura del sistema
 
 Muestra las cuatro capas del sistema: desde el punto de acceso del usuario hasta el almacenamiento persistente en la nube.
-![Imagen](Proyecto2/Anexos/FlujoSolucion.png)
+![Imagen](../Anexos/FlujoSolucion.png)
+
 
 ## Diagrama 2 — Flujo de registro de un pedido
 
