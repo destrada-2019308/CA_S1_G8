@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto2=self.webpackChunkproyecto2||[]).push([["418"],{7923(e){e.exports=JSON.parse('{"metadata":{"permalink":"/CA_S1_G8/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
