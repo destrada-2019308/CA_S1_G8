@@ -5,7 +5,9 @@ Para la gestión del proyecto se utilizó **Trello** como herramienta principal 
 <div align="center">
   <img src="Anexos/tablero-trello-Creacion.png" alt="descripcion" width="800"/>
 </div>
+
 ---
+
 <div align="center">
   <img src="Anexos/tablero-Trello.png" alt="descripcion" width="800"/>
 </div>
