@@ -2,7 +2,10 @@
 Para la gestión del proyecto se utilizó **Trello** como herramienta principal de planificación, aprovechando su sistema de tableros Kanban que permite visualizar el flujo de trabajo de manera estructurada. El tablero **CAA-Proyecto2** fue organizado en cuatro columnas principales, cada una representando una fase completada del proyecto.
 
 ---
-
+<div align="center">
+  <img src="Anexos/tablero-trello-Creacion.png" alt="descripcion" width="800"/>
+</div>
+---
 <div align="center">
   <img src="Anexos/tablero-Trello.png" alt="descripcion" width="800"/>
 </div>
