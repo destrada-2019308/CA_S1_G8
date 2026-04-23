@@ -46,6 +46,3 @@
 | :---: |
 | <a href="https://www.youtube.com/watch?v=hSyqXIu8oCo"><img src="https://img.youtube.com/vi/hSyqXIu8oCo/hqdefault.jpg" width="600"></a> | 
 </div>
-
-## Integrante 6 — 
-[![Elevator Pitch](https://img.youtube.com/vi//hqdefault.jpg)](https://www.youtube.com/watch?v=hSyqXIu8oCo)
