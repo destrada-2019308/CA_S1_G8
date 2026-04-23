@@ -86,3 +86,4 @@ Adicionalmente, incluirá autenticación básica de un solo usuario y backup aut
 La junta concluye con todos los roles de acuerdo, el cliente satisfecho dentro de sus limitaciones, y un plan concreto, documentado y firmado en el acta. El Scrum Master cierra la sesión agradeciendo la participación y el profesionalismo del equipo.
 
 [![Video Pitch](https://img.youtube.com/vi/H_NjCqbpAbw/hqdefault.jpg)](https://youtu.be/H_NjCqbpAbw)
+| **Figura:** Video sobre nuestro pitch grupal|
