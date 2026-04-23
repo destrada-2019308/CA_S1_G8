@@ -16,7 +16,7 @@ ubicada en [Zona 1, Ciudad de Guatemala]. Entrevistadores: [Cesar Emmanuel Cipri
 
 | Imagen 4 | Imagen 5 | Imagen 6 |
 |----------|----------|----------|
-| Imagen 4 | Descripción 5 | Descripción 6 |
+|  Foto Vidreria| Foto Vidreria|  Foto Vidreria|
 | <img src="../Anexos/4.jpeg" width="200"> | <img src="../Anexos/5.jpeg" width="200"> | <img src="../Anexos/6.jpeg" width="200"> |
 ---
 
@@ -31,5 +31,5 @@ ubicada en [Departamento de Sacatepéquez, Sumpango]. Entrevistadores: [Wagner M
 
 | Imagen 1 | Imagen 2 | Imagen 3 | Imagen 4 |
 |----------|----------|----------|----------|
-|| **Figura:** Img1||| **Figura:** Img1||| **Figura:** Img1||| **Figura:** Img1||
+| Foto Taller | Foto Taller| Foto Taller| Foto Taller|
 | <img src="../Anexos/Herreria1.jpeg" alt="Herrería 1" style="width:300px;"> | <img src="../Anexos/Herreria2.jpeg" alt="Herrería 2" style="width:300px;"> | <img src="../Anexos/Herreria3.jpeg" alt="Herrería 3" style="width:300px;"> | <img src="../Anexos/Herreria4.jpeg" alt="Herrería 4" style="width:300px;"> |
