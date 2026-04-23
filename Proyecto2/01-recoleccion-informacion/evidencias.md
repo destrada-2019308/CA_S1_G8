@@ -11,12 +11,12 @@ ubicada en [Zona 1, Ciudad de Guatemala]. Entrevistadores: [Cesar Emmanuel Cipri
 
 | Imagen 1 | Imagen 2 | Imagen 3 |
 |----------|----------|----------|
-| Descripción 1 | Descripción 2 | Descripción 3 |
+| Imagen 1 | Imagen 2 | Imagen 3 |
 | <img src="../Anexos/1.jpeg" width="200"> | <img src="../Anexos/2.jpeg" width="200"> | <img src="../Anexos/3.jpeg" width="200"> |
 
 | Imagen 4 | Imagen 5 | Imagen 6 |
 |----------|----------|----------|
-| Descripción 4 | Descripción 5 | Descripción 6 |
+| Imagen 4 | Descripción 5 | Descripción 6 |
 | <img src="../Anexos/4.jpeg" width="200"> | <img src="../Anexos/5.jpeg" width="200"> | <img src="../Anexos/6.jpeg" width="200"> |
 ---
 
