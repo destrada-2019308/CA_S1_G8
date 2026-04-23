@@ -30,4 +30,5 @@ ubicada en [Departamento de Sacatepéquez, Sumpango]. Entrevistadores: [Wagner M
 
 | Imagen 1 | Imagen 2 | Imagen 3 | Imagen 4 |
 |----------|----------|----------|----------|
+|| **Figura:** Img1||| **Figura:** Img1||| **Figura:** Img1||| **Figura:** Img1||
 | <img src="../Anexos/Herreria1.jpeg" alt="Herrería 1" style="width:300px;"> | <img src="../Anexos/Herreria2.jpeg" alt="Herrería 2" style="width:300px;"> | <img src="../Anexos/Herreria3.jpeg" alt="Herrería 3" style="width:300px;"> | <img src="../Anexos/Herreria4.jpeg" alt="Herrería 4" style="width:300px;"> |
