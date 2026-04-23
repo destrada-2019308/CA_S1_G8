@@ -12,9 +12,6 @@
 | <a href="https://www.youtube.com/watch?v=tuzy2Lt6cCs"><img src="https://img.youtube.com/vi/tuzy2Lt6cCs/hqdefault.jpg" width="600"></a> | 
 </div>
 
-[![Elevator Pitch](https://drive.google.com/uc?export=view&id=19aPdD6DuQh6KubSa25KF3xLW_8a7DZrr)]
-()
-
 ## Integrante 3 — Vidriería: No sabe cuánto gana o pierde
 [![Elevator Pitch](https://img.youtube.com/vi/XxLtH8NP4fk/hqdefault.jpg)](https://www.youtube.com/watch?v=XxLtH8NP4fk)
 
