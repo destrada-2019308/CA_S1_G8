@@ -11,7 +11,7 @@ ubicada en [Zona 1, Ciudad de Guatemala]. Entrevistadores: [Cesar Emmanuel Cipri
 
 | Imagen 1 | Imagen 2 | Imagen 3 |
 |----------|----------|----------|
-| Imagen 1 | Imagen 2 | Imagen 3 |
+|  Foto Vidreria| Foto Vidreria|  Foto Vidreria |
 | <img src="../Anexos/1.jpeg" width="200"> | <img src="../Anexos/2.jpeg" width="200"> | <img src="../Anexos/3.jpeg" width="200"> |
 
 | Imagen 4 | Imagen 5 | Imagen 6 |
