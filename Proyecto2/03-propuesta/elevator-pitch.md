@@ -4,7 +4,7 @@
 
 | DIEGO FLORES - Vidriería: Control de Clientes |
 | :---: |
-| <a href="https://www.youtube.com/watch?v=qeHYjoOVsb0"><img src="https://img.youtube.com/vi/qeHYjoOVsb0/hqdefault.jpg" width="400"></a> | 
+| <a href="https://www.youtube.com/watch?v=qeHYjoOVsb0"><img src="https://img.youtube.com/vi/qeHYjoOVsb0/hqdefault.jpg" width="600"></a> | 
 </div>
 
 ## Integrante 1 — 
