@@ -1,12 +1,14 @@
 # Elevator Pitch
 
 <div align="center">
+  
 | DIEGO FLORES - Vidriería: Control de Clientes |
 | :---: |
 | <a href="https://www.youtube.com/watch?v=qeHYjoOVsb0"><img src="https://img.youtube.com/vi/qeHYjoOVsb0/hqdefault.jpg" width="600"></a> | 
 </div>
 
 <div align="center">
+  
 | CESAR CIPRIANO — Vidriería: Pedidos Desorganizados |
 | :---: |
 | <a href="https://www.youtube.com/watch?v=tuzy2Lt6cCs"><img src="https://img.youtube.com/vi/tuzy2Lt6cCs/hqdefault.jpg" width="600"></a> | 
