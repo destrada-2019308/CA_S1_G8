@@ -23,22 +23,17 @@
 
 <div align="center">
   
-
-## Integrante 4 — Herrería: Control de Materiales
-[![Elevator Pitch](https://img.youtube.com/vi/yd5IAdB_PGM/hqdefault.jpg)](https://www.youtube.com/watch?v=yd5IAdB_PGM)
-<div align="center">
-  
-<div align="center">
-  
-| CESAR CIPRIANO — Vidriería: Pedidos Desorganizados |
+| DIEGO RENE — Herrería: Control de Materiales |
 | :---: |
-| <a href="https://www.youtube.com/watch?v=tuzy2Lt6cCs"><img src="https://img.youtube.com/vi/tuzy2Lt6cCs/hqdefault.jpg" width="600"></a> | 
+| <a href="https://www.youtube.com/watch?v=yd5IAdB_PGM"><img src="https://img.youtube.com/vi/yd5IAdB_PGM/hqdefault.jpg" width="600"></a> | 
 </div>
-
-
-## Integrante 5 — Herrería: Entregas Tardías
-[![Video Pitch](https://img.youtube.com/vi/wrhZZRwhlsA/0.jpg)](https://youtu.be/wrhZZRwhlsA)
+  
 <div align="center">
+  
+| MAX LEY — Herrería: Entregas Tardías |
+| :---: |
+| <a href="https://www.youtube.com/watch?v=wrhZZRwhlsA"><img src="https://img.youtube.com/vi/wrhZZRwhlsA/hqdefault.jpg" width="600"></a> | 
+</div>
   
 <div align="center">
   
