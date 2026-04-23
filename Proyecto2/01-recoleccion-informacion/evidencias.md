@@ -12,7 +12,7 @@ ubicada en [Zona 1, Ciudad de Guatemala]. Entrevistadores: [Cesar Emmanuel Cipri
 | Imagen 1 | Imagen 2 | Imagen 3 |
 |----------|----------|----------|
 || **Figura:** Video sobre el pitch||| **Figura:** Video sobre el pitch||| **Figura:** Video sobre el pitch||
-|<img src="../Anexos/1.jpeg" alt="img1" width="200">| <img src="../Anexos/2.jpeg" alt="img2" width="200"> | <img src="../Anexos/3.jpeg" alt="img3" width="200"> |
+|<img src="../Anexos/1.jpeg" alt="img1" width="200"> | **Figura:** Img1|| <img src="../Anexos/2.jpeg" alt="img2" width="200"> | <img src="../Anexos/3.jpeg" alt="img3" width="200"> |
 | Imagen 4 | Imagen 5 | Imagen 6 |
 || **Figura:** Video sobre el pitch||| **Figura:** Video sobre el pitch||| **Figura:** Video sobre el pitch||
 | <img src="../Anexos/4.jpeg" alt="img4" width="200"> | <img src="../Anexos/5.jpeg" alt="img5" width="200"> | <img src="../Anexos/6.jpeg" alt="img6" width="200"> |
