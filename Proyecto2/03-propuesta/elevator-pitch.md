@@ -4,17 +4,11 @@
 
 | DIEGO FLORES - Vidriería: Control de Clientes |
 | :---: |
-| <a href="https://www.youtube.com/watch?v=qeHYjoOVsb0"><img src="[https://img.youtube.com/vi/8uBJ_tRof-0](https://www.youtube.com/watch?v=qeHYjoOVsb0)/maxresdefault.jpg" width="400"></a> | 
-</div>
-<div align="center">
-  <a href="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/Trifoliar_Ciberseguridad.pdf">
-    <img src="https://github.com/destrada-2019308/CA_S1_G8/blob/main/Anexos/images/trifoliarPortada.png" alt="Banner del trifoliar" width="400">
-  </a>
-  <p><i>Trifoliar</i></p>
+| <a href="https://www.youtube.com/watch?v=qeHYjoOVsb0"><img src="https://img.youtube.com/vi/qeHYjoOVsb0/hqdefault.jpg" width="400"></a> | 
 </div>
 
 ## Integrante 1 — 
-[![Elevator Pitch](https://img.youtube.com/vi/qeHYjoOVsb0/hqdefault.jpg)]()
+[![Elevator Pitch]()]()
 
 ## Integrante 2 — Vidriería: Pedidos Desorganizados
 [![Elevator Pitch](https://drive.google.com/uc?export=view&id=19aPdD6DuQh6KubSa25KF3xLW_8a7DZrr)]
