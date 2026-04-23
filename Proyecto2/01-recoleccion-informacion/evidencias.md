@@ -12,9 +12,7 @@ ubicada en [Zona 1, Ciudad de Guatemala]. Entrevistadores: [Cesar Emmanuel Cipri
 | Imagen 1 | Imagen 2 | Imagen 3 |
 |----------|----------|----------|
 
-| ![img1](../Anexos/1.jpeg) | **Figura 1:** Diagrama de flujo principal del proceso. Se observan tres bloques conectados por flechas que indican la secuencia de inicio, desarrollo y finalización. Los colores predominantes son azul y gris. |
-| ![img2](../Anexos/2.jpeg) | **Figura 2:** Esquema de componentes. Muestra una estructura desglosada con etiquetas técnicas (posiblemente eléctricas o mecánicas). Incluye anotaciones manuscritas en los márgenes. |
-| ![img3](../Anexos/3.jpeg) | **Figura 3:** Gráfica comparativa de resultados. Presenta dos curvas (roja y verde) sobre un eje de tiempo, con valores normalizados entre 0 y 100. La leyenda indica "Grupo control" y "Grupo experimental". |
+|<img src="../Anexos/1.jpeg" alt="img1" width="200">| <img src="../Anexos/2.jpeg" alt="img2" width="200"> | <img src="../Anexos/3.jpeg" alt="img3" width="200"> |
 | Imagen 4 | Imagen 5 | Imagen 6 |
 |----------|----------|----------|
 | <img src="../Anexos/4.jpeg" alt="img4" width="200"> | <img src="../Anexos/5.jpeg" alt="img5" width="200"> | <img src="../Anexos/6.jpeg" alt="img6" width="200"> |
